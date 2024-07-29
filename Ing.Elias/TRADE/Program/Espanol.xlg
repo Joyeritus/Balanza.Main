@@ -1,0 +1,502 @@
+1,Command completed!
+2,Fichero de Datos
+3,Error fichero de datos
+4,Comando enviado al fichero datos
+5,Conmutación a la báscula 
+6,Obtener peso
+7,Obtener el peso en reposo
+8,Obtener el peso y salvar
+9,Cero
+10,Tara
+11,Fijar la tara manual
+12,Destarar la báscula
+13,Comando Directo
+14,Comando NO APROBADO impreso
+15,Comando Enviado
+16,(no)
+17,Guardar
+18,%s [Sesión %d]
+19,Version DEMO
+20,Licencia: %s / %s
+21,AD-Error
+22,Báscula %d/%s - Rango '%s'
+23,SOBRECARGA
+24,CARGA BAJA
+25,<CargaMin>
+26,INIT-ERROR!
+27,ERROR DE COMPROBACION!
+28,"NO PERMITIDO! "
+29,"Tarando ... "
+30,"Ajustando Cero ... "
+31,"Cero fuera de Rango! "
+32,"Tara fuera de Rango! "
+33,Báscula %d/%s - Puerto '%s'
+34,AD %d - Dir %d - ID '%s'
+35,INIT-ERROR! Báscula %d - AD %d - Dir %d - ID '%s'
+36,Báscula %d - AD %d 
+37,ERROR: %s
+38,ERROR DE LECTURA %d
+39,Tara fuera de Rango!
+40,(off)
+41,Off
+42,ON
+43,AD/%d
+44,(Nuevo)
+45,Error %d/%d - Puerto '%s'\nOut:'%s'\nIn: '%s'
+46,Operación CRC/TCR 
+47,Protocolo: '%s'  %s %s - %s (%s %s)
+48,Error %d abriendo/creando '%s'
+49,Llamar Dir. %d
+50,Báscula %d - AD %d -Dir. %d- '%s' - Error - Objetivo=%s / Actual=%s
+51,Báscula %d - AD %d- %s
+52,Dir. %d- '%s' - Err. - Objetivo=%s / Act.=%s
+53,Dir. %d- '%s' - OK -  Actual=%s (%s)
+54,Finalización - demasiados errores!
+55,Básculas=%s - Puerto '%s' - Dir. '%d'
+56,Nombre=%s
+57,Selección=%s
+58,Nº de serie=%s
+59,Int.LDW=%d
+60,Int.LWT=%d
+61,No existe!
+62,Dir%d,\x22%s\x22
+63,Ajustar Dir. %d
+64,Error %d ajuste de parámetros
+65,Interface
+66,Nueva calibración reemplaza la anterior calibración?\n\n
+67,Por favor descarge la báscula!\n\n
+68,Requiere nueva calibración de células de carga?\n
+69,Inicio de calibración
+70,Carga nominal perdida! Cálculo finalizado!
+71,Calibración
+72,Peso de calibración < 2/100 de Max. o desconocido! Calibración imposible! 
+73,Error de báscula! Finalizar proceso?
+74,Error de esquina! Esquina cargada '%s' en lugar de '%s'?
+75,Descargada
+76,Cargada '%s'
+77,Célula de carga %d - Valor=%d
+78,Error de cálculo de calibración! Repetir calibración!
+79,Calibración finalizada
+80,Calibración satisfactoria
+81,Esquinas
+82,Ajuste de esquinas
+83,Esq. %d
+84,NOMBRE=%s IDN=%s DIR=%d
+85,Calibra. finalizada
+86,Calibración de cero satisfactoria! Continuar con cargas?
+87,Calibración de cero finalizada
+88,Calibración satisfactoria
+89,Calibración de fondo de escala finalizada
+90,Calibra. de fondo de escala (calculada) finalizada
+91,Calibración
+92,Calibración de fondo de escala
+93,Fondo de escala
+94,Calibración de fondo de escala
+95,Error %d/%d ajuste de parámetros standard
+96,Guardar
+97,Error %d!
+98,Ajuste automático de direcciónes?
+99,Ajuste de direcciones
+100,Ajustar el sistema como se muestra:\n\n
+101," Nº de serie. %s\t--> Dir. %d \n"
+102,\n\nDirección erronea! Ajuste no posible!
+103," Interface\t --> %s \n"
+104," Formato de datos\t --> %s \n"
+105," Terminación de Bus\t --> %s \n"
+106,Imposible ajustar al menos un nº de serie! 
+107,Ajuste de direcciones/Formato de datos
+108,Ajustar todos los parámetros y guardar satisfactoriamente!
+109,Nuevo ajuste del sistema como se muestra:\n\n
+110,\nAtención: SI reescribirá todas las calibraciones de la báscula!  NO solo para leer los datos de las células de carga 
+111,Muestreo-Bus
+112,Error de lectura de parámetros!
+113,Muestreo-Bus/formato de datos
+114,Lectura de parámetros y guardar formato de datos!
+115,(Off)
+116,(Error)
+117,Protocolo iniciado 
+118,Protocolo detenido
+119,Calibración de cero y de fondo de escala
+120,Calibración de cero
+121,Calc.
+122,Calc. de fondo de escala sin Pesos
+123,Sondeo iniciado
+124,Sondeo detenido
+125,No autorización para ajuste. Use función 'Check'!
+126,Ajuste
+127,Cambiar básculas
+128,Desconexión de báscula
+129,Báscula no válida:%d
+130,Comando no válido: %s
+131,ERROR DE AUDIT-TRAIL 
+132,Leer peso...
+133,Error de envío %d
+134,Fuera de tiempo
+135,Error de lectura %d
+136,Bruto
+137,Neto
+138,Tara-Pt
+139,(Tara-V)
+140,Esta seguro de que quiere terminar TRADE?
+141,Finalizar programa
+142,Continuar protocolo?
+143,Lista de pesaje
+144,Info: %s
+145,-208: Falta firma
+146,-209: Firma %s/%s (ya no) válido 
+147,-%d: Error fichero de datos: %d
+148,Tamaño de datos (%d bytes) fichero no ok
+149,Abriendo fichero de datos
+150,Leyendo ..
+151,Error %d leyendo de '%s'
+152,Error de lectura
+153,%d (%d) lectura de grabación
+154,No hay datos que borrar! (%02d/%04d)
+155,Borrar ficheros de datos
+156,Borrar todos los ficheros desde 01/1997 hasta %02d/%04d?
+157,Escribir fichero
+158,Error %d escribiendo fichero '%s'!
+159,Error de escritura
+160,Fichero de lectura
+161,Error %d leyendo fichero '%s'
+162,Error de lectura
+163,Copiar fichero
+164,Error %d copiando fichero '%s' to '%s'!
+165,Error de copia de fichero
+166,Borrar fichero
+167,Error %d borrando fichero '%s'
+168,Error de borrado
+169,Báscula desconectada
+170,No aprobado!
+171,< Carga Mín.
+172,FORMATO
+173,Copia de  %s
+174,Chequeo de parámetros
+175,Servicio de parámetros
+176,Operador de parámetros
+177," -APROBADO"
+178," - Servicio No Permitido!"
+179,Ajuste de báscula %d(%s) No de acuerdo a NTEP/OIML:\n\n
+180,\nCoger los datos de todas formas?
+181,OIML/NTEP-Prueba
+182,Cambios relevantes causarán incremento de nº de  Audit-Trail
+183,Pulsar 'NO' para restaurar datos originales.
+184,Pulsar 'Si' para guardar datos.\n\n
+185,Realmente quiere guardar datos?
+186,Nuevo nº de Audit-Trail
+187,Datos restaurados desde el origén!
+188,%04x CAMBIADO!
+189,%04x CELULA DE CARGA!
+190,%04x CAMBIADO!
+191,%s CAMBIADO!
+192,%04d CAMBIADO!
+193,(Nueva báscula)
+194,CAMBIADO
+195,Ajuste:%s %s/%s - %s (%s %s) - Sesión %d
+196,Imprimir parámetros de báscula ?
+197,Impresión
+198,Ajuste: %s %s
+199,Ajustes en area AD pueden causar cambios relevantes,
+200,i.e. el nº de  Audit-Trail se incrementará! Imposible rehacer!
+201,Cél. de carga
+202,Realizados cambios en la célula de carga. Rehacer ya no posible.
+203,Rehacer los cambios?
+204,Cancelar
+205,Repetir entrada
+206,Contraseña de operador
+207,Contraseña de servicio
+208,Imprimir historial de la báscula?
+209,Protocolo: %s %s
+210,Simulación - '%s'
+211,"Comenzar TRADE como sigue: "
+212,TRADE.EXE [-u=ld] [w=scale]\n
+213,Tareas múltiples requieren diferentes id's
+214,Arrancar programa
+215,Simulación
+216,%sBáscula off!
+217,%sSimulación-%d:%s %s
+218,Modo de Comandos
+219,&Ejecutar
+220,&Guardar
+221,&Comando
+222,C&omentario
+223,&Parámetro
+224,&Imprimir
+225,Guardar &e Imprimir
+226,Cabezera
+227,&Pesar
+228,Pesar y guardar
+229,OK
+230," Versión "
+231," Licencia para "
+232,AD - aprobado
+233," Calibración "
+234,Masa nom.
+235,Masa
+236,Es&quina
+237,Masa de calibarción
+238,eAdj.masa
+239,&Calibr.
+240,eCal. Masa
+241,&Cero
+242,Ca&lc.
+243," Comunicación "
+244,Ter&m.
+245,&Formato
+246,&Pto.
+247,Vel. de transmisión/Paridad
+248,caBaud
+249,Terminación Bus
+250,&Scan
+251,Se&t
+252,AD-valor
+253,Selec.
+254,Nºserie
+255,Max
+256,(Actualizar protocolo)
+257,Suma
+258," Protocolo "
+259,Visualizar protocolo
+260,&Visualizador
+261,Guardar protocolo
+262,&Archivo
+263,Comunicación LC On/Off
+264,&Cab.
+265,Fin/Cancelar
+266,&Fin
+267,Ficheros Texto|*.txt|Todos los ficheros*.*
+268,Tarar
+269,&Báscula
+270,Ajuste de Cero
+271,&Pt-Tara
+272,Congelar visualización
+273,Resolución x10
+274,Pesar y Guardar
+275,Cambiar báscula
+276,Comunicación
+277,&Visualizar fichero de datos
+278,Configurar &Impresora
+279,&Salir
+280,&Opciones
+281,&Operador
+282,&Servicio
+283,Visualización AD
+284,&Fuentes/Color
+285,Visualizar Peso
+286,Visualizar Estado
+287,Protocolo
+288,Congelar protocolo
+289,Fichero de datos
+290,Color del visor
+291,Visor de báscula
+292,Visor de herramientas
+293,Simulación
+294,Función
+295,Cambiar básculas
+296,Pt-Tara
+297,Tarar
+298,Sin Tara
+299,Cero
+300,Resolución x10 
+301,Pesar y Guardar
+302,Acerca de...
+303,&Chequear
+304,Fichero de datos
+305,Fich./Fecha
+306,Filtro
+307,Imprimir desde fichero de datos
+308,Borrar ficheros de datos anteriores
+309,Nº de columnas
+310,Cerrar
+311,Busqueda de fichero de datos por fechas
+312,Filtro(e.g. *123)
+313,Leer/Escribir fichero
+314,Origen
+315,(Bytes)
+316,Meta
+317,Congelar protocolo
+318,Diálogo de Contraseñas
+319,Introducir Contraseña
+320,Cancelar
+321,Parámetro
+322,Aplicar
+323,General
+324,"Contraseñas "
+325,Operador
+326,Servicio
+327," Compañia "
+328,Cliente Nº
+329,Cógido
+330,Nombre1
+331,Nombre2
+332,Fichero de datos
+333,Ruta
+334,Decod. firma
+335,Salvar Datos/ Periódo
+336," Visor "
+337,Filas de Protocolo
+338,Frecuencia
+339,Timeout
+340,Estable-Unidad
+341,Fuente
+342," Modo de impresión"
+343,Unfrom.
+344,Válido
+345,Proport.
+346,Báscula única
+347,Nombre/Función
+348," Información de básculas "
+349,Nº de Sistema
+350,Dispositivo
+351," Escanear de Célula de carga "
+352," Función "
+353,Función de tara
+354,Ajuste de cero
+355,Pesar y guardar
+356,Fuentes/Colores
+357,Modo de Comandos
+358," Electrónica de Célula de carga "
+359,Valor de filtro
+360,Filtro rápido
+361,Scan Rate ICR
+362,Par. Chequeo
+363,Placa de identificación
+364," Rango de pesaje "
+365,Intervalo e [Unid.]
+366,Carga Max. [Unid.]
+367,Rango 1
+368,Rango 2
+369,Rango 3
+370,Tipo de báscula
+371," Placa de identificación "
+372,Carga Mín [Unid.]
+373,Unidad
+374,Etiquetado
+375,Adición
+376,Parámetro/Célula de carga
+377," Ajustes de Cero"
+378,Tiempo
+379,Ajuste de Cero
+380,Cero inicial (Encendido)
+381,Rastreo de Cero
+382," Ajustes estables "
+383,Cambios
+384,Aplicación de báscula
+385,Tipo
+386,Emax LC [Unid.]
+387,AD
+388," Locación "
+389,Locación
+390,Factor g [m/s2]
+391,Chequeo
+392," Parámetro "
+393,Chequear Suma
+394," Cambios "
+395,Audit-Trail-No.
+396," Software "
+397,Versión
+398," Comentario "
+399,&Cortar
+400,C&opiar
+401,&Pegar
+402,&Borrar
+403,&Defecto
+404,Defecto/General
+405,Cargar plantilla
+406,Guardar plantilla
+407,Báscula
+408,Bruto
+409,Tara
+410,Neto
+411,Estable
+412,Frecu.
+413,Objetivo
+414,Intervalo
+415,Actividad
+416,Idioma
+417,Parar lista de pesaje
+418,Parar &lista de pesaje
+419,Lista de pesaje parada
+420,Historial
+421,&Copia de seguridad
+422,&Restaurar
+423,Copia de seguridad
+424,Restaurar
+425,Seleccionar directorio
+426,Directorio de origen y de destino son identicos!
+427,Error %d leyendo directorio de origen
+428,Copiando %d ficheros de '%s' a '%s'?
+429,Fallo en Copiar!
+430,Copiado!
+431,&Cerrar
+432,ERROR DE TIPO!
+433,TIPO
+434,Error de Carga! Masa demasiado baja!
+435,Cab.
+436,Demasiados errores de lectura! Cabeza parada!
+437,GRABAR
+438,FECHA
+439,FIRMA
+440,VERSION
+441,HDR
+442,COMENTARIO
+443,PLACA DE IDENTIFICACION
+444,BRUTO
+445,NETO
+446,TARA
+447,ESTABLE
+448,ESTADO
+449,BANDERAS
+450,RECIBIDO
+451,ENVIADO
+452,COD. LC
+453,Cód. LC
+454,&Modo de comandos
+455,Sobrecarga celula de carga
+456,Fin de programa solicitado!
+457,&Seleccionar todo
+458,Falta Emax!
+459,Carga
+460,Br.
+461,Requiere ajuste de Cero!
+462,Por favor cargar báscula!\n\n
+463,Nomb.
+464,Adr.%d
+465,Emax LC [Unid.]
+466,Estan activas multiples sesiones de TRADE! Servicio requiere solo una sesión!
+467,Archivos fueron inicializados (Code=%d) !
+468,Error de lectura de datos historal !
+469,Tienen  %d los datos confudidos in la lista de meta '%s' ! Todo sobrescrito ?
+470,Error  %d en la comprobación de puesto de datos !
+471,Texto adicional
+472,Patrón
+473,Muchas seciones de TRADE activo ! - Solo posibles cambios eb báscula actuales
+474,Manten.
+475,dia
+476,mes
+477,ano
+478,modo
+479,Informacion de mantenimiento
+480,Mantenimiento de datos vencidos ! 
+481,Código
+482,Código inválido !
+483,Error %d en la escritura de mantenimiento de datos !
+484,Error %d en la lectura de mantenimiento de datos !
+485,Establecer nuevo tiempo de espera !
+486,CIEVRE
+487,Placa lacrada 
+488,Chequear de parámerto
+489,Chequear de programa
+490,Audit-Trail No:
+491,RANGE
+492,Estatus
+493,AD directo
+494,Lugar de corte es inválido !
+495,No se dió Carga maxima
+496,La carga de prueba es menor del 2 por ciento de la capacidad maxima - Incremente el peso !
+497,La carga de prueba actual es demasiado baja - incremente la carga !
+498,COM/IDN
+499,Wrong load cells found at the COM-port. Are the scales mixed up ? 
+500,Licencia: %s
+501,EDIT
+502,Informacion de mantenimiento  (CIEVRE)

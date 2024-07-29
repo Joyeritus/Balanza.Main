@@ -1,0 +1,502 @@
+1,Commande exécutée
+2,FICHIER DE VÉRIFICATION
+3,ERREUR Fichier de vérification
+4,Commande enreg. dans fic. de vérification
+5,Changer de balance
+6,Poids
+7,Poids stable
+8,Poids stable/Sauvegarder
+9,Zéro
+10,Tare
+11,Tare manuelle
+12,Tare Off
+13,Commande directe
+14,Commande NON ADMIS À LA VÉRIFICATION imprimé!
+15,Commande transféré
+16,(non)
+17,Sauvegarder poids
+18,%s [Session %d]
+19,VERSION DEMO/TEST
+20,Licence: %s / %s
+21,Erreur AD
+22,Balance %d/%s - Étendue '%s'
+23,SURCHARGE
+24,SOUSCHARGE
+25,<ChargeMin>
+26,ERREUR-INIT!
+27,ERREUR-CONTR!
+28,"NON APPROUVE! "
+29,"Tarer ... "
+30,"Mise à zéro... "
+31,"Zéro , hors plage ! " 
+32,"Tare , hors plage ! "
+33,Balance %d/%s - Port '%s'
+34,AD %d - ADR %d - ID '%s'
+35,ERREUR-INIT! Balance %d - AD %d - ADR %d - ID '%s'
+36,Balance %d - AD %d 
+37,ERREUR: %s
+38,ERR. DE LECT. %d
+39,Tare , hors plage ! 
+40,(off)
+41,Off
+42,ON
+43,AD/%d
+44,(Nouveau)
+45,Erreur %d/%d - Port '%s'\nOut:'%s'\nIn: '%s'
+46,Gestion CRC/TCR 
+47,Protocole: '%s'  %s %s - %s (%s %s)
+48,Erreur %d lors de l'ouverture/création de '%s'
+49,Comm. d'adr. %d
+50,Balance %d - AD %d -Adr. %d- '%s' - Erreur - Cible=%s / Réel=%s
+51,Balance %d - AD %d- %s
+52,Adr. %d- '%s' - Err. - Cible=%s / Act.=%s
+53,Adr. %d- '%s' - OK -  Réel=%s (%s)
+54,Annuler - Trop d'erreurs!
+55,Balance=%s - Port '%s' - Adr. '%d'
+56,Nom=%s
+57,Sélection=%s
+58,No. de série=%s
+59,LDWint.=%d
+60,LWTint.=%d
+61,N'existe pas !
+62,ADR%d,\x22%s\x22
+63,Ecrire adr. %d
+64,Erreur %d lors du réglage des paramètres!
+65,Interface
+66,Perte des données de l'étalonnage existant, lors d'un ré-étalonnage!\n\n
+67,Décharger la balance svp!\n\n
+68,Re-étalonner les capteurs?\n
+69,Démarrer l'étalonnage
+70,Pas de poids nom. spécifiée! Impossible de calculer!
+71,Etalonnage
+72,ChPoids d'étalonnage <= 2/100 du Max. ou non spéficiée! Impossible d'étalonner! 
+73,Erreur de balance! Interrompre l'opération?
+74,Erreur d'angle! Probablement angle '%s' chargé au lieu de l'angle '%s'!
+75,Déchargé
+76,Chargé '%s'
+77," Capteur %d - Valeur=%d"
+78,Erreur de calcul de l'étalonnage!, Refaire l'étalonnage!
+79,Etalonnage terminé
+80,Etalonnage réussi!
+81,Angles
+82,Équilibrage des angles
+83,Angle %d
+84,NOM=%s IDN=%s ADR=%d
+85,Etalonnage terminé
+86,Ajustage zéro réussi! Continuer avec charge?
+87,Ajustage (zéro) terminé
+88,Etalonnage réussi!
+89,Ajustage  du gain terminé
+90,Ajustage du gain calculé terminé
+91,Etalonnage
+92,Réglages Zéro / Gain
+93,Gain
+94,Réglage gain
+95,Erreur %d/%d lors du réglage des paramètres standarts!
+96,Sauvegarder
+97,Erreur %d!
+98,Adressage automatique ?   
+99,Configuration d'adresses
+100,La configuration suivante est-elle acceptée?\n\n
+101," No. de série %s\t--> Adr. %d \n "
+102,\n\nAdresses incorrectes! Impossible de configurer des adresses!
+103," Interface\t --> %s \n"
+104," Format de données\t --> %s \n"
+105," Termination bus\t --> %s \n"
+106,Impossible de configurer , 'no. série non trouvé!
+107,Configuration d'adresse/Format de données
+108,Réglage et sauvegarde de tous les paramètres réussi!
+109,Ré-étalonner tous les capteurs ou relire seulement:\n\n
+110,\nAttention: OUI écrase tous les réglages ! NON , seulement relit les capteurs!
+111,Bus-Scan
+112,Erreur lors de la lecture des paramètres!
+113,Bus-Scan/Format de données
+114,Lecture des paramètres et sauvegarde du format des données!
+115,(Off)
+116,(Erreur)
+117,Protocole lancé ...
+118,Protocole arrêté ...
+119,Ajustage zéro et gain
+120,Ajustage zéro
+121,Calc.
+122,Calcul du gain , sans charge
+123,Comm. lancé ...
+124,Comm. arrêté ...
+125,Modifications non autorisées! utiliser la fonction ' Controle '.
+126,Paramétrage
+127,Changer de balance
+128,Balance Off
+129,Balance incorrecte:%d
+130,Commande incorrecte: %s
+131,ERREUR DE No AUDIT-TRAIL
+132,Lire poids....
+133,Erreur de transfert %d
+134,TIMEOUT
+135,Erreur de lecture %d
+136,Brut
+137,Net
+138,Man-Tare
+139,Val-Tare
+140,Quitter TRADE?
+141,Programme terminé
+142,Continuer protocole?  
+143,Communication Protocole
+144,Info: %s
+145,-208: Pas de signature 
+146,-209: Signature %s/%s n'est pas (plus) correcte 
+147,-%d: Erreur du fichier de vérification: %d
+148,Taille (%d octets) du fichier de vérification incorrecte!
+149,Ouvrir le fichier de vérification
+150,Lecture ..
+151,Erreur %d lors de la lecture de '%s'
+152,Erreur de lecture
+153,%d (%d) blocs de données lus
+154,Pas de données à effacer! (%02d/%04d)
+155,Supprimer fichier de vérification
+156,Supprimer tous les fichier du 01/1997 à %02d/%04d?
+157,Écrire fichier
+158,Erreur %d lors de l'écriture du fichier '%s'!
+159,Erreur lors de l'écriture
+160,Lire fichier
+161,Erreur %d lors de la lecture du fichier '%s'
+162,Erreur de lecture
+163,Copier fichier
+164,Erreur %d lors de la copie du fichier '%s' vers '%s'!
+165,Erreur lors de la copie du fichier
+166,Supprimer fichier
+167,Erreur %d lors de l'effacement du fichier '%s'
+168,Erreur lors de l'effacement
+169,Balance Off
+170,Non approuve!
+171,Sous charge Min
+172,FORMAT
+173,Copie de %s
+174,Paramètre - Controle
+175,Paramètre - Service
+176,Paramètre - Utilisateur
+177," -APPROUVE"
+178," - Modifications non autorisées!"
+179,Les paramètres de la balance %d(%s) ne sont pas conformes à NTEP/OIML:\n\n
+180,\nEnregistrer données quand même?
+181,Controle OIML/NTEP
+182,Des paremètres ayant été modifiés ,  incrémente le no. Audit-Trail 
+183,Appuyer sur ' NON ' pour restaurer les données d'origine. 
+184,Appuyer sur 'Oui' pour sauvegarder les données.\n\n
+185,Sauvegarder les données?
+186,Nouveau no Audit-Trail
+187,Données d'origine restaurées!
+188,%04x MODIFIÉ!
+189,%04x CAPTEUR!
+190,%04x MODIFIÉ!
+191,%s MODIFIÉ!
+192,%04d MODIFIÉ!
+193,(Nouvelle balance)
+194,MODIFIÉ
+195,Paramétrage:%s %s/%s - %s (%s %s) - Session %d
+196,Imprimer paramètres ?
+197,Impression
+198,Paramétrage: %s %s
+199,Dans l'environnement 'AD' toutes les modifications apportées seront enregistrées 
+200,et un retour en arrière sera impossible
+201,Capteur
+202,Modifications effectuées sur les capteurs . Impossible d'annuler cette action! 
+203,Annuler les modifications?
+204,Annuler
+205,Répéter saisie 
+206,Mot de passe utilisateur
+207,Mot de passe service
+208,Imprimer Historique ?
+209,Protocole: %s %s
+210,Simulation - '%s'
+211,"Lancer TRADE comme suit: "
+212,TRADE.EXE [-u=ld] [w=balance]\n
+213,Fenétres multiples demandent différentes Identifications
+214,Démarrer programme
+215,Simulation
+216,%sBalance Off!
+217,%sSimulation-%d:%s %s
+218,Panneau de commande
+219,&Exécuter
+220,Sauv.
+221,&Commande
+222,C&ommentaire
+223,Paramètre
+224,&Imprimer
+225,Sauv. &et imprimer
+226,En-Tête
+227,&Peser
+228,Peser et sauv.
+229,OK
+230," Version "
+231," Licence pour "
+232,AD - approuvé 
+233," Etalonnage "
+234,Masse etal.
+235,Poids
+236,&Angle
+237,Poids d'étalonnage
+238,Masse
+239,&Etalonn.
+240,Poids&Cal.
+241,&Zéro
+242,Ca&lc.
+243," Communication "
+244,Ter&m.
+245,&Format
+246,&Port
+247,Vitesse/Parité
+248,caBaud
+249,Termination bus
+250,&SCAN
+251,&SET
+252,Val. AD
+253,Sélect.
+254,No série
+255,Max
+256,(Réactualiser protocole)
+257,Somme
+258," Protocole "
+259,Affich. protocole
+260,&Affich.
+261,Sauvegarder protocole
+262,&Fichier
+263,Comm. capteur on/off
+264,&Comm
+265,Fin/Annuler
+266,&Fin
+267,Fichier texte|*.txt|Tous les fichiers|*.*
+268,Tare On
+269,&Balance
+270,Mise à zéro
+271,&Man-Ta
+272,Geler l'affichage
+273,x10 résolution
+274,Peser et sauvegarder
+275,Changer de balance
+276,Communication
+277,&Affichage du fichier de vérification
+278,Config. &imprimante
+279,&Quitter
+280,&Options
+281,&Utilisateur
+282,&Service
+283,Affichage AD
+284,&Police/Couleurs
+285,Affichage de poids
+286,L&igne d'état
+287,&Liste de pesage 
+288,Liste de pesage arrêté
+289,&Fichier de vérification
+290,&Couleur - Affichage
+291,&Affichage de la balance
+292,Barre d'&outils
+293,Simulation
+294,&Fonctions
+295,&Changer de balance
+296,Tare &manuel
+297,Tare &On
+298,Tare O&ff
+299,&Mise à zéro
+300,x10 résolution
+301,Peser et &sauvegarder
+302,&À propos de...
+303,&Controle
+304,Fichier de vérification
+305,&Fichier/Date
+306,Fil&tre
+307,Imprimer
+308,Supprimer ancien fic. de vérification
+309,Nbr.de colonnes
+310,Fermer
+311,Sélection du fic. de vérification selon date
+312,Filtre (par ex. *123)
+313,Lire/écrire fichier
+314,Source
+315,Taille/Octets
+316,Destination
+317,Liste de pesage arrêté
+318,Dialogue - mot de passe
+319,&Entrer le mot de passe
+320,Annuler
+321,Paramètre
+322,Charger
+323," Général "
+324," Mots de passe"
+325,Utilisateur
+326,Service
+327," Entreprise "
+328,Réf.
+329,Code
+330,Nom 1
+331,Nom 2
+332," Fichier de vérification "
+333,Répertoire
+334,Signature-encodé
+335,Duree de sauv. [mois]
+336," Affichage "
+337,Nbr. de mesures
+338,Fréquence
+339,Timeout
+340,Unité/stable
+341,Police
+342," Mode d'impression"
+343,Non-form.
+344,Correct
+345,Proport.
+346,Balance individuelle
+347,Nom/Fonction
+348," Désignation "
+349,Système no.
+350,Type d'appareil
+351," Communication capteur "
+352," Fonctions "
+353,Fonctions de tare
+354,Mise à zéro
+355,Peser et sauvegarder
+356,Paramètres/Police
+357,Panneau de commande
+358," Capteur "
+359,Étage de filtre
+360,Filtre rapide
+361,Vitesse ICR
+362,Freq. controle
+363,Plaque signalétique
+364,"  Étendues de mesures  "
+365,emin [Unité]
+366,Max. [Unité]
+367,Étendue 1
+368,Étendue 2
+369,Étendue 3
+370,Type de balance
+371," Plaque signalétique "
+372,Min. [Unité]
+373,Unité
+374,Inscription
+375,Option
+376,Paramètre/Capteur
+377," Zéro"
+378,Periode
+379,Plage de zéro
+380,Zéro de démarrage
+381,Zéro suiveur
+382," Parametres de stabilité "
+383,Nbr. divisions
+384,Application de pesage
+385,Type
+386,Emax Capt. [Unité]
+387,AD
+388," Lieu "
+389,Lieu
+390,Constante g
+391,Controle
+392," Paramètre "
+393,Nbr de contrôle
+394," Modifications "
+395,No. Audit-Trail
+396," Logiciel "
+397,Version
+398," Commentaire "
+399,&Couper
+400,&Copier
+401,&Insérer
+402,&Supprimer
+403,&Defaut
+404,Defaut/Général
+405,Charger template
+406,Sauvegarder template
+407,Balance
+408,Brut/kg
+409,Tare/kg
+410,Net/kg
+411,Stable
+412,Fréqu.
+413,Dest./kg
+414,Interv./d
+415,Activité
+416,Langue
+417,Liste de pesage arrêtée
+418,&Liste de pesage arrêtée
+419,Liste de pesage -  arrêtée
+420,Historique
+421,&Sauvegarde des données
+422,&Récupérer données
+423,Sauvegarde des données
+424,Récupérer données
+425,Sélectionner répertoire
+426,Répertoire de source et destination sont identiques !
+427,Erreur %d lors de lecture du répertoire source
+428,Copie en cours %d fichiers à partir de '%s' vers '%s'?
+429,Impossible de copier!
+430,Copie réussie!
+431,&Fermer
+432,ERREUR-TYPE!
+433,TYPE
+434,Erreur de poids! Poids de test < 2/100 de Max !
+435,Comm
+436,Trop d'erreurs de lecture! Communication arrêté!
+437,NBR.
+438,DATE
+439,SIGNATURE
+440,VERSION
+441,HDR
+442,COMMENTAIRE
+443,PLAQUE SIGNALÉTIQUE
+444,BRUT-val
+445,NET-val
+446,TARE-val
+447,STABLE/MODE
+448,ÉTAT
+449,FLAGS
+450,RECU
+451,ENVOYÉ
+452,CODE-Capteur
+453,Code-Capteur
+454,&Panneau de commande
+455,Surcharge Capteur
+456,Fin du programme demandé!
+457,&Sélectionner tous
+458,Emax capteur non spécifiée!
+459,Charge
+460,Br.
+461,Réglage du zéro demandé!
+462,Charger la balance svp!\n\n
+463,Nom
+464,Adr.%d
+465,Emax Capt[Unité]
+466,Plusieurs fenêtres de TRADE sont actives! Utilisation en mode service possible sur une seule fenêtre!
+467,Fichiers initialisés (Code=%d)!
+468,Erreur de lecture du fichier historique !
+469,? Trouver %d  fichiers de destination '%s'! Ecraser tout ?
+470,Erreur %d lors du contrôle du fichier de vérification
+471,Ajouter texte
+472,Etiquette
+473,Plusieurs fenêtres TRADE sont actives ! Modification des paramètres general impossible - continuer ? 
+474,Mainten.
+475,Jour
+476,Mois
+477,Année
+478,Type
+479,Message correct
+480,Maintenance correcte ! (Warning)
+481,Code
+482,Code invalide !
+483,Erreur %d lors de l'écriture des messages de maintenance !
+484,Erreur %d lors de la lecture des messages de maintenance !
+485,Date prochain contrôle !
+486,Blocage
+487,Plaque signalitique
+488,Paramètre somme de contrôle :
+489,Programme somme de contrôle :
+490,No Audit-Trail :
+491,Etendue
+492,Etat
+493,Direct AD
+494,Interface n'existe pas !
+495,Charge nominale ou max. non effectuée !
+496,La masse utilisée est inférieure à 2 pourcent de Emax - augmenter la masse !
+497,Charge trop faible - augmenter la charge !
+498,COM/IDN
+499,Wrong load cells found at the COM-port. Are the scales mixed up ? 
+500,Licence: %s
+501,EDIT
+502,Maintenance correcte ! (Block)

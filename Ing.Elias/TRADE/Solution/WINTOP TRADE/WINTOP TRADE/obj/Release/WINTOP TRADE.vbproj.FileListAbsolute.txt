@@ -1,0 +1,20 @@
+d:\eesquivele\Developer\WEIGHT SERVER\WINTOP TRADE\WINTOP TRADE - ETHERNET\obj\Release\ResolveAssemblyReference.cache
+d:\eesquivele\Developer\WEIGHT SERVER\WINTOP TRADE\WINTOP TRADE - ETHERNET\obj\Release\DYNASERVER.Form1.resources
+d:\eesquivele\Developer\WEIGHT SERVER\WINTOP TRADE\WINTOP TRADE - ETHERNET\obj\Release\DYNASERVER.Resources.resources
+d:\eesquivele\Developer\WEIGHT SERVER\WINTOP TRADE\WINTOP TRADE - ETHERNET\obj\Release\WINTOP TRADE.vbproj.GenerateResource.Cache
+d:\eesquivele\Developer\WEIGHT SERVER\WINTOP TRADE\WINTOP TRADE - ETHERNET\bin\Debug\WINTOP TRADE.exe
+d:\eesquivele\Developer\WEIGHT SERVER\WINTOP TRADE\WINTOP TRADE - ETHERNET\bin\Debug\WINTOP TRADE.pdb
+d:\eesquivele\Developer\WEIGHT SERVER\WINTOP TRADE\WINTOP TRADE - ETHERNET\bin\Debug\WINTOP TRADE.xml
+d:\eesquivele\Developer\WEIGHT SERVER\WINTOP TRADE\WINTOP TRADE - ETHERNET\obj\Release\WINTOP TRADE.exe
+d:\eesquivele\Developer\WEIGHT SERVER\WINTOP TRADE\WINTOP TRADE - ETHERNET\obj\Release\WINTOP TRADE.xml
+d:\eesquivele\Developer\WEIGHT SERVER\WINTOP TRADE\WINTOP TRADE - ETHERNET\obj\Release\WINTOP TRADE.pdb
+d:\eesquivele\Developer\WEIGHT SERVER\WINTOP TRADE\WINTOP TRADE\bin\Debug\WINTOP TRADE.exe
+d:\eesquivele\Developer\WEIGHT SERVER\WINTOP TRADE\WINTOP TRADE\bin\Debug\WINTOP TRADE.pdb
+d:\eesquivele\Developer\WEIGHT SERVER\WINTOP TRADE\WINTOP TRADE\bin\Debug\WINTOP TRADE.xml
+d:\eesquivele\Developer\WEIGHT SERVER\WINTOP TRADE\WINTOP TRADE\obj\Release\ResolveAssemblyReference.cache
+d:\eesquivele\Developer\WEIGHT SERVER\WINTOP TRADE\WINTOP TRADE\obj\Release\DYNASERVER.Form1.resources
+d:\eesquivele\Developer\WEIGHT SERVER\WINTOP TRADE\WINTOP TRADE\obj\Release\DYNASERVER.Resources.resources
+d:\eesquivele\Developer\WEIGHT SERVER\WINTOP TRADE\WINTOP TRADE\obj\Release\WINTOP TRADE.vbproj.GenerateResource.Cache
+d:\eesquivele\Developer\WEIGHT SERVER\WINTOP TRADE\WINTOP TRADE\obj\Release\WINTOP TRADE.exe
+d:\eesquivele\Developer\WEIGHT SERVER\WINTOP TRADE\WINTOP TRADE\obj\Release\WINTOP TRADE.xml
+d:\eesquivele\Developer\WEIGHT SERVER\WINTOP TRADE\WINTOP TRADE\obj\Release\WINTOP TRADE.pdb

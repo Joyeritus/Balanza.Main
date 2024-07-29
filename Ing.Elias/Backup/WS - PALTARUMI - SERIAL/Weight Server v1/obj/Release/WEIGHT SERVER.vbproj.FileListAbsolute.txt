@@ -1,0 +1,27 @@
+d:\eesquivele\Developer\WEIGHT SERVER\WS - PALTARUMI\DYNASERVER\bin\Release\WEIGHT SERVER.exe
+d:\eesquivele\Developer\WEIGHT SERVER\WS - PALTARUMI\DYNASERVER\bin\Release\WEIGHT SERVER.pdb
+d:\eesquivele\Developer\WEIGHT SERVER\WS - PALTARUMI\DYNASERVER\bin\Release\WEIGHT SERVER.xml
+d:\eesquivele\Developer\WEIGHT SERVER\WS - PALTARUMI\DYNASERVER\obj\Release\ResolveAssemblyReference.cache
+d:\eesquivele\Developer\WEIGHT SERVER\WS - PALTARUMI\DYNASERVER\obj\Release\WEIGHTSERVER.FRMMAIN.resources
+d:\eesquivele\Developer\WEIGHT SERVER\WS - PALTARUMI\DYNASERVER\obj\Release\WEIGHTSERVER.Resources.resources
+d:\eesquivele\Developer\WEIGHT SERVER\WS - PALTARUMI\DYNASERVER\obj\Release\WEIGHT SERVER.vbproj.GenerateResource.Cache
+d:\eesquivele\Developer\WEIGHT SERVER\WS - PALTARUMI\DYNASERVER\obj\Release\WEIGHT SERVER.exe
+d:\eesquivele\Developer\WEIGHT SERVER\WS - PALTARUMI\DYNASERVER\obj\Release\WEIGHT SERVER.xml
+d:\eesquivele\Developer\WEIGHT SERVER\WS - PALTARUMI\DYNASERVER\obj\Release\WEIGHT SERVER.pdb
+d:\eesquivele\Developer\WEIGHT SERVER\WS - PALTARUMI\Weight Server v1\obj\Release\WEIGHT SERVER.exe
+d:\eesquivele\Developer\WEIGHT SERVER\WS - PALTARUMI\Weight Server v1\obj\Release\WEIGHT SERVER.xml
+d:\eesquivele\Developer\WEIGHT SERVER\WS - PALTARUMI\Weight Server v1\obj\Release\WEIGHT SERVER.pdb
+d:\eesquivele\Developer\WEIGHT SERVER\WS - PALTARUMI\Weight Server v1\bin\Debug\WEIGHT SERVER.exe
+d:\eesquivele\Developer\WEIGHT SERVER\WS - PALTARUMI\Weight Server v1\bin\Debug\WEIGHT SERVER.pdb
+d:\eesquivele\Developer\WEIGHT SERVER\WS - PALTARUMI\Weight Server v1\bin\Debug\WEIGHT SERVER.xml
+d:\eesquivele\Developer\WEIGHT SERVER\WS - PALTARUMI\Weight Server v1\obj\Release\ResolveAssemblyReference.cache
+d:\eesquivele\Developer\WEIGHT SERVER\WS - PALTARUMI\Weight Server v1\obj\Release\WEIGHTSERVER.FRMMAIN.resources
+d:\eesquivele\Developer\WEIGHT SERVER\WS - PALTARUMI\Weight Server v1\obj\Release\WEIGHTSERVER.Resources.resources
+d:\eesquivele\Developer\WEIGHT SERVER\WS - PALTARUMI\Weight Server v1\obj\Release\WEIGHT SERVER.vbproj.GenerateResource.Cache
+d:\eesquivele\Developer\WEIGHT SERVER\WS - PALTARUMI - SERIAL\Weight Server v1\obj\Release\ResolveAssemblyReference.cache
+d:\eesquivele\Developer\WEIGHT SERVER\WS - PALTARUMI - SERIAL\Weight Server v1\obj\Release\WEIGHTSERVER.FRMMAIN.resources
+d:\eesquivele\Developer\WEIGHT SERVER\WS - PALTARUMI - SERIAL\Weight Server v1\obj\Release\WEIGHTSERVER.Resources.resources
+d:\eesquivele\Developer\WEIGHT SERVER\WS - PALTARUMI - SERIAL\Weight Server v1\obj\Release\WEIGHT SERVER.vbproj.GenerateResource.Cache
+d:\eesquivele\Developer\WEIGHT SERVER\WS - PALTARUMI - SERIAL\Weight Server v1\obj\Release\WEIGHT SERVER.exe
+d:\eesquivele\Developer\WEIGHT SERVER\WS - PALTARUMI - SERIAL\Weight Server v1\obj\Release\WEIGHT SERVER.xml
+d:\eesquivele\Developer\WEIGHT SERVER\WS - PALTARUMI - SERIAL\Weight Server v1\obj\Release\WEIGHT SERVER.pdb

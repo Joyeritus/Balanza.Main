@@ -1,0 +1,77 @@
+D:\eesquivele\Desarrollo\ETHERNET\Weight Server v1.0\Weight Server v1.0\obj\Debug\ResolveAssemblyReference.cache
+D:\eesquivele\Desarrollo\ETHERNET\Weight Server v1.0\Weight Server v1.0\obj\Debug\Weight_Server_v1._0.FrmMain.resources
+D:\eesquivele\Desarrollo\ETHERNET\Weight Server v1.0\Weight Server v1.0\obj\Debug\Weight_Server_v1._0.Resources.resources
+D:\eesquivele\Desarrollo\ETHERNET\Weight Server v1.0\Weight Server v1.0\obj\Debug\Weight Server v1.0.vbproj.GenerateResource.Cache
+D:\eesquivele\Desarrollo\ETHERNET\Weight Server v1.0\Weight Server v1.0\bin\Debug\Weight Server v1.0.exe
+D:\eesquivele\Desarrollo\ETHERNET\Weight Server v1.0\Weight Server v1.0\bin\Debug\Weight Server v1.0.pdb
+D:\eesquivele\Desarrollo\ETHERNET\Weight Server v1.0\Weight Server v1.0\bin\Debug\Weight Server v1.0.xml
+D:\eesquivele\Desarrollo\ETHERNET\Weight Server v1.0\Weight Server v1.0\obj\Debug\Weight Server v1.0.exe
+D:\eesquivele\Desarrollo\ETHERNET\Weight Server v1.0\Weight Server v1.0\obj\Debug\Weight Server v1.0.xml
+D:\eesquivele\Desarrollo\ETHERNET\Weight Server v1.0\Weight Server v1.0\obj\Debug\Weight Server v1.0.pdb
+d:\eesquivele\Developer\DIGISOL - WEIGHT SYSTEM\Weight Server v1.0\Weight Server v1.0\obj\Debug\Weight Server v1.0.exe
+d:\eesquivele\Developer\DIGISOL - WEIGHT SYSTEM\Weight Server v1.0\Weight Server v1.0\obj\Debug\Weight Server v1.0.xml
+d:\eesquivele\Developer\DIGISOL - WEIGHT SYSTEM\Weight Server v1.0\Weight Server v1.0\obj\Debug\Weight Server v1.0.pdb
+d:\eesquivele\Developer\DIGISOL - WEIGHT SYSTEM\Weight Server v1.0\Weight Server v1.0\bin\Debug\Weight Server v1.0.exe
+d:\eesquivele\Developer\DIGISOL - WEIGHT SYSTEM\Weight Server v1.0\Weight Server v1.0\bin\Debug\Weight Server v1.0.pdb
+d:\eesquivele\Developer\DIGISOL - WEIGHT SYSTEM\Weight Server v1.0\Weight Server v1.0\bin\Debug\Weight Server v1.0.xml
+d:\eesquivele\Developer\DIGISOL - WEIGHT SYSTEM\Weight Server v1.0\Weight Server v1.0\obj\Debug\ResolveAssemblyReference.cache
+d:\eesquivele\Developer\DIGISOL - WEIGHT SYSTEM\Weight Server v1.0\Weight Server v1.0\obj\Debug\Weight_Server_v1._0.FrmMain.resources
+d:\eesquivele\Developer\DIGISOL - WEIGHT SYSTEM\Weight Server v1.0\Weight Server v1.0\obj\Debug\Weight_Server_v1._0.Resources.resources
+d:\eesquivele\Developer\DIGISOL - WEIGHT SYSTEM\Weight Server v1.0\Weight Server v1.0\obj\Debug\Weight Server v1.0.vbproj.GenerateResource.Cache
+d:\eesquivele\Developer\DIGISOL - PROYECTOS NET\PROYECTO CEMEX\WEIGHT SERVER CEMEX\Weight Server v1.0\obj\Debug\Weight Server v1.0.exe
+d:\eesquivele\Developer\DIGISOL - PROYECTOS NET\PROYECTO CEMEX\WEIGHT SERVER CEMEX\Weight Server v1.0\obj\Debug\Weight Server v1.0.xml
+d:\eesquivele\Developer\DIGISOL - PROYECTOS NET\PROYECTO CEMEX\WEIGHT SERVER CEMEX\Weight Server v1.0\obj\Debug\Weight Server v1.0.pdb
+d:\eesquivele\Developer\DIGISOL - PROYECTOS NET\PROYECTO CEMEX\WEIGHT SERVER CEMEX\Weight Server v1.0\bin\Debug\Weight Server v1.0.exe
+d:\eesquivele\Developer\DIGISOL - PROYECTOS NET\PROYECTO CEMEX\WEIGHT SERVER CEMEX\Weight Server v1.0\bin\Debug\Weight Server v1.0.pdb
+d:\eesquivele\Developer\DIGISOL - PROYECTOS NET\PROYECTO CEMEX\WEIGHT SERVER CEMEX\Weight Server v1.0\bin\Debug\Weight Server v1.0.xml
+d:\eesquivele\Developer\DIGISOL - PROYECTOS NET\PROYECTO CEMEX\WEIGHT SERVER CEMEX\Weight Server v1.0\obj\Debug\Weight_Server_v1._0.FrmMain.resources
+d:\eesquivele\Developer\DIGISOL - PROYECTOS NET\PROYECTO CEMEX\WEIGHT SERVER CEMEX\Weight Server v1.0\obj\Debug\Weight_Server_v1._0.Resources.resources
+d:\eesquivele\Developer\DIGISOL - PROYECTOS NET\PROYECTO CEMEX\WEIGHT SERVER CEMEX\Weight Server v1.0\obj\Debug\Weight Server v1.0.vbproj.GenerateResource.Cache
+D:\eesquivele\Developer\DIGISOL - PROYECTOS NET\PROYECTO CEMEX\WEIGHT SERVER CEMEX\Weight Server v1.0\bin\Debug\Weight Server v1.0.exe.config
+D:\eesquivele\Developer\DIGISOL - PROYECTOS NET\PROYECTO CEMEX\WEIGHT SERVER CEMEX\Weight Server v1.0\obj\Debug\Weight Server v1.0.vbprojResolveAssemblyReference.cache
+d:\eesquivele\Developer\DIGISOL - WEIGHT SYSTEM\WEIGHT SERVER\WS - 003 CREATIVE STORE\Weight Server v1.0\bin\Debug\Weight Server v1.0.exe.config
+d:\eesquivele\Developer\DIGISOL - WEIGHT SYSTEM\WEIGHT SERVER\WS - 003 CREATIVE STORE\Weight Server v1.0\obj\Debug\Weight Server v1.0.exe
+d:\eesquivele\Developer\DIGISOL - WEIGHT SYSTEM\WEIGHT SERVER\WS - 003 CREATIVE STORE\Weight Server v1.0\obj\Debug\Weight Server v1.0.xml
+d:\eesquivele\Developer\DIGISOL - WEIGHT SYSTEM\WEIGHT SERVER\WS - 003 CREATIVE STORE\Weight Server v1.0\obj\Debug\Weight Server v1.0.pdb
+d:\eesquivele\Developer\DIGISOL - WEIGHT SYSTEM\WEIGHT SERVER\WS - 003 CREATIVE STORE\Weight Server v1.0\obj\Debug\Weight Server v1.0.vbprojResolveAssemblyReference.cache
+d:\eesquivele\Developer\DIGISOL - WEIGHT SYSTEM\WEIGHT SERVER\WS - 003 CREATIVE STORE\Weight Server v1.0\obj\Debug\Weight_Server_v1._0.FrmMain.resources
+d:\eesquivele\Developer\DIGISOL - WEIGHT SYSTEM\WEIGHT SERVER\WS - 003 CREATIVE STORE\Weight Server v1.0\obj\Debug\Weight_Server_v1._0.Resources.resources
+d:\eesquivele\Developer\DIGISOL - WEIGHT SYSTEM\WEIGHT SERVER\WS - 003 CREATIVE STORE\Weight Server v1.0\obj\Debug\Weight Server v1.0.vbproj.GenerateResource.Cache
+d:\eesquivele\Developer\DIGISOL - WEIGHT SYSTEM\WEIGHT SERVER\WS - 003 CREATIVE STORE\Weight Server v1.0\bin\Debug\Weight Server v1.0.exe
+d:\eesquivele\Developer\DIGISOL - WEIGHT SYSTEM\WEIGHT SERVER\WS - 003 CREATIVE STORE\Weight Server v1.0\bin\Debug\Weight Server v1.0.pdb
+d:\eesquivele\Developer\DIGISOL - WEIGHT SYSTEM\WEIGHT SERVER\WS - 003 CREATIVE STORE\Weight Server v1.0\bin\Debug\Weight Server v1.0.xml
+d:\eesquivele\Developer\DIGISOL - WEIGHT SYSTEM\WEIGHT SERVER\WS - 003 CREATIVE STORE\VERSION 2\Weight Server v1.0\bin\Debug\Weight Server v1.0.exe.config
+d:\eesquivele\Developer\DIGISOL - WEIGHT SYSTEM\WEIGHT SERVER\WS - 003 CREATIVE STORE\VERSION 2\Weight Server v1.0\obj\Debug\Weight Server v1.0.exe
+d:\eesquivele\Developer\DIGISOL - WEIGHT SYSTEM\WEIGHT SERVER\WS - 003 CREATIVE STORE\VERSION 2\Weight Server v1.0\obj\Debug\Weight Server v1.0.xml
+d:\eesquivele\Developer\DIGISOL - WEIGHT SYSTEM\WEIGHT SERVER\WS - 003 CREATIVE STORE\VERSION 2\Weight Server v1.0\obj\Debug\Weight Server v1.0.pdb
+d:\eesquivele\Developer\DIGISOL - WEIGHT SYSTEM\WEIGHT SERVER\WS - 003 CREATIVE STORE\VERSION 2\Weight Server v1.0\bin\Debug\Weight Server v1.0.exe
+d:\eesquivele\Developer\DIGISOL - WEIGHT SYSTEM\WEIGHT SERVER\WS - 003 CREATIVE STORE\VERSION 2\Weight Server v1.0\bin\Debug\Weight Server v1.0.pdb
+d:\eesquivele\Developer\DIGISOL - WEIGHT SYSTEM\WEIGHT SERVER\WS - 003 CREATIVE STORE\VERSION 2\Weight Server v1.0\bin\Debug\Weight Server v1.0.xml
+d:\eesquivele\Developer\DIGISOL - WEIGHT SYSTEM\WEIGHT SERVER\WS - 003 CREATIVE STORE\VERSION 2\Weight Server v1.0\obj\Debug\Weight Server v1.0.vbprojResolveAssemblyReference.cache
+d:\eesquivele\Developer\DIGISOL - WEIGHT SYSTEM\WEIGHT SERVER\WS - 003 CREATIVE STORE\VERSION 2\Weight Server v1.0\obj\Debug\Weight_Server_v1._0.FrmMain.resources
+d:\eesquivele\Developer\DIGISOL - WEIGHT SYSTEM\WEIGHT SERVER\WS - 003 CREATIVE STORE\VERSION 2\Weight Server v1.0\obj\Debug\Weight_Server_v1._0.Resources.resources
+d:\eesquivele\Developer\DIGISOL - WEIGHT SYSTEM\WEIGHT SERVER\WS - 003 CREATIVE STORE\VERSION 2\Weight Server v1.0\obj\Debug\Weight Server v1.0.vbproj.GenerateResource.Cache
+d:\eesquivele\Developer\DIGISOL - WEIGHT SYSTEM\WEIGHT SERVER\WS - 003 CREATIVE STORE\Weight Server\Weight Server v1.0\bin\Debug\Weight Server v1.0.exe.config
+d:\eesquivele\Developer\DIGISOL - WEIGHT SYSTEM\WEIGHT SERVER\WS - 003 CREATIVE STORE\Weight Server\Weight Server v1.0\obj\Debug\Weight Server v1.0.exe
+d:\eesquivele\Developer\DIGISOL - WEIGHT SYSTEM\WEIGHT SERVER\WS - 003 CREATIVE STORE\Weight Server\Weight Server v1.0\obj\Debug\Weight Server v1.0.xml
+d:\eesquivele\Developer\DIGISOL - WEIGHT SYSTEM\WEIGHT SERVER\WS - 003 CREATIVE STORE\Weight Server\Weight Server v1.0\obj\Debug\Weight Server v1.0.pdb
+d:\eesquivele\Developer\DIGISOL - WEIGHT SYSTEM\WEIGHT SERVER\WS - 003 CREATIVE STORE\Weight Server\Weight Server v1.0\bin\Debug\Weight Server v1.0.exe
+d:\eesquivele\Developer\DIGISOL - WEIGHT SYSTEM\WEIGHT SERVER\WS - 003 CREATIVE STORE\Weight Server\Weight Server v1.0\bin\Debug\Weight Server v1.0.pdb
+d:\eesquivele\Developer\DIGISOL - WEIGHT SYSTEM\WEIGHT SERVER\WS - 003 CREATIVE STORE\Weight Server\Weight Server v1.0\bin\Debug\Weight Server v1.0.xml
+d:\eesquivele\Developer\DIGISOL - WEIGHT SYSTEM\WEIGHT SERVER\WS - 003 CREATIVE STORE\Weight Server\Weight Server v1.0\obj\Debug\Weight Server v1.0.vbprojResolveAssemblyReference.cache
+d:\eesquivele\Developer\DIGISOL - WEIGHT SYSTEM\WEIGHT SERVER\WS - 003 CREATIVE STORE\Weight Server\Weight Server v1.0\obj\Debug\Weight_Server_v1._0.FrmMain.resources
+d:\eesquivele\Developer\DIGISOL - WEIGHT SYSTEM\WEIGHT SERVER\WS - 003 CREATIVE STORE\Weight Server\Weight Server v1.0\obj\Debug\Weight_Server_v1._0.Resources.resources
+d:\eesquivele\Developer\DIGISOL - WEIGHT SYSTEM\WEIGHT SERVER\WS - 003 CREATIVE STORE\Weight Server\Weight Server v1.0\obj\Debug\Weight Server v1.0.vbproj.GenerateResource.Cache
+E:\Weight Server . Codigo Fuente\Weight Server\Weight Server v1.0\bin\Debug\Weight Server v1.0.exe.config
+E:\Weight Server . Codigo Fuente\Weight Server\Weight Server v1.0\bin\Debug\Weight Server v1.0.exe
+E:\Weight Server . Codigo Fuente\Weight Server\Weight Server v1.0\bin\Debug\Weight Server v1.0.pdb
+E:\Weight Server . Codigo Fuente\Weight Server\Weight Server v1.0\bin\Debug\Weight Server v1.0.xml
+E:\Weight Server . Codigo Fuente\Weight Server\Weight Server v1.0\obj\Debug\Weight Server v1.0.vbproj.AssemblyReference.cache
+E:\Weight Server . Codigo Fuente\Weight Server\Weight Server v1.0\obj\Debug\Weight_Server_v1._0.FrmMain.resources
+E:\Weight Server . Codigo Fuente\Weight Server\Weight Server v1.0\obj\Debug\Weight_Server_v1._0.Resources.resources
+E:\Weight Server . Codigo Fuente\Weight Server\Weight Server v1.0\obj\Debug\Weight Server v1.0.vbproj.GenerateResource.cache
+E:\Weight Server . Codigo Fuente\Weight Server\Weight Server v1.0\obj\Debug\Weight Server v1.0.vbproj.CoreCompileInputs.cache
+E:\Weight Server . Codigo Fuente\Weight Server\Weight Server v1.0\obj\Debug\Weight Server v1.0.vbproj.CopyComplete
+E:\Weight Server . Codigo Fuente\Weight Server\Weight Server v1.0\obj\Debug\Weight Server v1.0.exe
+E:\Weight Server . Codigo Fuente\Weight Server\Weight Server v1.0\obj\Debug\Weight Server v1.0.xml
+E:\Weight Server . Codigo Fuente\Weight Server\Weight Server v1.0\obj\Debug\Weight Server v1.0.pdb

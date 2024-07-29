@@ -1,0 +1,502 @@
+1,Command completed!
+2,DATA STORAGE DEVICE
+3,ERROR Data Storage Device
+4,Command sent to Data Storage Device
+5,Switch over scale
+6,Fetch weight
+7,Fetch weight at rest
+8,Fetsch weight + save in DSD
+9,Zero
+10,Tare
+11,Set manual tare
+12,De-tare scale
+13,Direct command
+14,Command NOT APPROVED printed
+15,Command sent
+16,(no)
+17,Save
+18,%s [Session %d]
+19,DEMO Version
+20,License: %s / %s
+21,AD-Error
+22,Scale %d/%s - Range '%s'
+23,OVERLOAD
+24,UNDERLOAD
+25,<MinLoad>
+26,INIT-ERROR!
+27,CHECK-ERROR!
+28,"NOT APPROVED! "
+29,"Tareing ... "
+30,"Zero setting ... "
+31,"Zero out of Range! " 
+32,"Tare out of Range! "
+33,Scale %d/%s - Port '%s'
+34,AD %d - ADR %d - ID '%s'
+35,INIT-ERROR! Scale %d - AD %d - ADR %d - ID '%s'
+36,Scale %d - AD %d 
+37,ERROR: %s
+38,READ ERROR %d
+39,Tare out of Range!
+40,(off)
+41,Off
+42,ON
+43,AD/%d
+44,(New)
+45,Error %d/%d - Port '%s'\nOut:'%s'\nIn: '%s'
+46,CRC/TCR Operation
+47,Protocol: '%s'  %s %s - %s (%s %s)
+48,Error %d opening/create '%s'
+49,Call Adr. %d
+50,Scale %d - AD %d -Adr. %d- '%s' - Error - Target=%s / Actual=%s
+51,Scale %d - AD %d- %s
+52,Adr. %d- '%s' - Err. - Target=%s / Act.=%s
+53,Adr. %d- '%s' - OK -  Actual=%s (%s)
+54,Termination-Too many Errors!
+55,Scale=%s - Port '%s' - Adr. '%d'
+56,Name=%s
+57,Selection=%s
+58,Serial No.=%s
+59,Int.LDW=%d
+60,Int.LWT=%d
+61,Not existing!
+62,ADR%d,\x22%s\x22
+63,Set Adr. %d
+64,Error %d setting Parameters
+65,Interface
+66,New calibration overwrites the old calibration in any case!\n\n
+67,Please unload the scale!\n\n
+68,New calibration of load cells wanted?\n
+69,Start calibration
+70,Nominal load missing! Calculation terminated!
+71,Calibration
+72,Calibration weight less than 2/100 of Max. or unknown! Calibration impossible! 
+73,Scale error! Terminate the process?
+74,Corner error! Corner '%s' loaded instead of '%s'?
+75,Unloaded
+76,Loaded '%s'
+77," Load cell %d - Value=%d"
+78,Error calculation the calibration! Repeat calibration!
+79,Calibration terminated
+80,Calibration successful
+81,Corners
+82,Corner adjustment
+83,Corner %d
+84,NAME=%s IDN=%s ADR=%d
+85,Calibr. terminated
+86,Zero calibration successful! Continue with loads?
+87,Zero Calibration terminated
+88,Calibration successful
+89,Span calibration terminated
+90,Span calibr. (calculated) terminated
+91,Calibration
+92,Span calibration
+93,Span
+94,Span calibration
+95,Error %d/%d setting the standard parameters
+96,Save 
+97,Error %d!
+98,Addresses set automatic ?   
+99,Setting addresses
+100,Set up the system as shown:\n\n
+101," Serial no. %s\t--> Adr. %d \n"
+102,\n\nWrong addresses! Setup not possible!
+103," Interface\t --> %s \n"
+104," Data format\t --> %s \n"
+105," Bus termination\t --> %s \n"
+106,Unable to setup at least one serial no! 
+107,Setup addresses/Data format
+108,All parameters set and saved successfully!
+109,New calibration of all load cells or read in load cells again:\n\n
+110,\nAttention: YES will overwrite all scale calibrations! NO only reads the load cells in again!
+111,Bus-scan
+112,Error reading parameters!
+113,Bus-scan/data format
+114,Reading parameters and save data format!
+115,(Off)
+116,(Error)
+117,Protocol started
+118,Protocol stopped
+119,Zero and span calibration
+120,Zero calibration
+121,Calc.
+122,Calc. of Span w/o Weights
+123,Poll started
+124,Poll stopped
+125,No permission for setup. Use 'Check' function!
+126,Setup
+127,Switch scales
+128,Scale off
+129,Invalid scale:%d
+130,Invalid command: %s
+131,AUDIT-TRAIL ERROR
+132,Read weight....
+133,Sending error %d
+134,TIMEOUT
+135,Read error %d
+136,Gross
+137,Net
+138,Pt-Tare
+139,(V-Tare)
+140,Really want to terminate TRADE?
+141,Program finish
+142,Continue Protocol?  
+143,Weighing list stopped
+144,Info: %s
+145,-208: No Signature
+146,-209: Signature %s/%s not valid (anymore) 
+147,-%d: Error data storage device: %d
+148,Size of Data Storage Device (%d bytes) file not ok
+149,Opening Data Storage Device
+150,Reading ..
+151,Error %d reading from '%s'
+152,Read error
+153,%d (%d) records read
+154,No data to delete! (%02d/%04d)
+155,Delete DSD files
+156,Delete all files from 01/1997 to %02d/%04d?
+157,Write file
+158,Error %d writing file '%s'!
+159,Write error
+160,Read file
+161,Error %d reading file '%s'
+162,Read error
+163,Copy file
+164,Error %d copying file '%s' to '%s'!
+165,File copy error
+166,Delete file
+167,Error %d deleting file '%s'
+168,Delete error
+169,Scale off
+170,Not approved!
+171,Under Min load
+172,FORMAT
+173,Copy of %s
+174,Parameter - Check
+175,Parameter - Service
+176,Parameter - Operator
+177," -APPROVED"
+178," - No Service Permission!"
+179,Setup of scale %d(%s) not acc. to NTEP/OIML:\n\n
+180,\nTake over data anyhow?
+181,OIML/NTEP-Test
+182,Relevant changes will cause increase of Audit-Trail-No.
+183,Press 'NO' to restore original data.
+184,Press 'Yes' to save data.\n\n
+185,Really want to save data?
+186,New Audit-Trail no.
+187,Data restored from origin!
+188,%04x CHANGED!
+189,%04x LOAD CELL!
+190,%04x CHANGED!
+191,%s CHANGED!
+192,%04d CHANGED!
+193,(New scale)
+194,CHANGED
+195,Setup:%s %s/%s - %s (%s %s) - Session %d
+196,Print Scale Parameters ?
+197,Printing
+198,Setup: %s %s
+199,Settings in AD-area may cause relevant changes,
+200,i.e. the Audit-Trail-No. will be increased! Undo after that not possible!
+201,Load Cell
+202,Changes in the load cells done. Undo not possible anymore!
+203,Undo the changes?
+204,Cancel
+205,Repeat input
+206,Operator-Password
+207,Service-Password
+208,Print Scale History ?
+209,Protocol: %s %s
+210,Simulation - '%s'
+211,"Start Trade as following: "
+212,TRADE.EXE [-u=ld] [w=scale]\n
+213,Multi sessions requires different id's
+214,Start program
+215,Simulation
+216,%sScale off!
+217,%sSimulation-%d:%s %s
+218,Command Panel
+219,&Execute
+220,&Save
+221,&Command
+222,C&omment
+223,&Parameter
+224,&Print
+225,Save &and Print
+226,Header
+227,&Weigh
+228,Weigh and save
+229,OK
+230," Version "
+231," License for "
+232,AD - approved
+233," Calibration "
+234,Norm Mass
+235,Mass
+236,Co&rner
+237,Calibration mass
+238,eAdj.mass
+239,&Calibr.
+240,eCal. Mass
+241,&Zero
+242,Ca&lc.
+243," Communication "
+244,Ter&m.
+245,&Format
+246,&Port
+247,Baudrate/Parity
+248,caBaud
+249,Bus termination
+250,&Scan
+251,Se&t
+252,AD-value
+253,Select
+254,Ser.No.
+255,Max
+256,(Protocol update)
+257,Sum
+258," Protocol "
+259,Protocol display
+260,&Display
+261,Protocol save
+262,&File
+263,LC-Communication On/Off
+264,&Poll
+265,End/Cancel
+266,&End
+267,Text files|*.txt|All files|*.*
+268,Tare On
+269,&Scale
+270,Zero Setting
+271,&Pt-Tare
+272,Freeze Display
+273,x10 Resolution
+274,Weigh and Save 
+275,Switch Scales
+276,Communication
+277,&Display DSD files
+278,Setup &Printer
+279,&Quit
+280,&Options
+281,&Operator
+282,&Service
+283,AD-Display
+284,&Fonts/Colour
+285,Weight Display
+286,Status Display
+287,Weighing list running
+288,Weighing list stopped
+289,Data Storage Device
+290,Display Color
+291,Scale Display
+292,Tool Display
+293,Simulation
+294,Function
+295,Switch Scales
+296,Pt-Tare
+297,Tare On
+298,Tare Off
+299,Zero
+300,x10 Resolution
+301,Weigh and Save
+302,About...
+303,&Check
+304,Data Storage Device
+305,File/Date
+306,Filter
+307,Print out of DSD files
+308,Delete old DSD-files
+309,No. of columns
+310,Close
+311,Date search of DSD-File 
+312,Filter (e.g. *123)
+313,File read/write
+314,Source
+315,Size (Bytes)
+316,Goal
+317,Protocol freeze
+318,Password-Dialog
+319,Enter Password: 
+320,Cancel
+321,Parameter
+322,Take over
+323,General
+324," Passwords "
+325,Operator
+326,Service
+327," Company "
+328,Custm-No.
+329,Code
+330,Name 1
+331,Name 2
+332," Data Storage Device "
+333,Path
+334,Sign.-Decoding
+335,Save Data/ Periode 
+336," Display "
+337,Protocol rows
+338,Scan Rate
+339,Timeout
+340,Stable-unit
+341,Font
+342," Print Mode"
+343,Unfrom.
+344,Valid
+345,Proport.
+346,Single Scale
+347,Name/Function
+348," Scale Information "
+349,System No.
+350,Device
+351," Scan load cell "
+352," Function "
+353,Tare Function
+354,Zero Setting
+355,Weigh and Save
+356,Fonts/Colors
+357,Command Panel
+358," Load Cell Electronic "
+359,Filter Value
+360,Fast Filter
+361,Scan Rate ICR
+362,Check Rate
+363,Name Plate
+364," Weighing Range "
+365,Interval e [Unit]
+366,Max. load [Unit]
+367,Range 1
+368,Range 2
+369,Range 3
+370,Scale Type
+371," Name Plate "
+372,Min. Load [Unit]
+373,Unit
+374,Scale label
+375,Addition
+376,Parameter/Load Cell
+377," Zero Settings"
+378,Time
+379,Zero Setting
+380,Initial Zero (Power up)
+381,Zero Tracking
+382," Stable Settings "
+383,Changes
+384,Scale Application
+385,Type
+386,- not used -
+387,AD
+388," Location "
+389,Location
+390,g-Value
+391,Check
+392," Parameter "
+393,Check-Sum
+394," Changes "
+395,Audit-Trail-No.
+396," Software "
+397,Version
+398," Comment "
+399,&Cut
+400,&Copy
+401,&Paste
+402,&Delete
+403,&Default
+404,Default/General
+405,Load Template
+406,Save Template
+407,Scale
+408,Gross
+409,Tare
+410,Net
+411,Stable
+412,Frequ.
+413,Target
+414,Interval
+415,Activity
+416,Language
+417,Weighing list stopped
+418,Weighing &list stopped
+419,Weighing list stopped
+420,Scale History
+421,&Backup
+422,&Restore
+423,Backup
+424,Restore
+425,Select Directory
+426,Source- and Destination-Directory are identical!
+427,Error %d reading source directory
+428,Copying %d Files from '%s' to '%s'?
+429,Copy failed!
+430,Copy successful!
+431,&Close
+432,TYPE-ERROR!
+433,TYPE
+434,Load Error! Mass lower than 2/100 of Max !
+435,Poll
+436,Too much Read-Errors! Poll stoppped!
+437,RECORD
+438,DATE
+439,SIGNATURE
+440,VERSION
+441,HDR
+442,COMMENT
+443,NAME PLATE
+444,GROSS
+445,NET
+446,TARE
+447,STABLE/MODE
+448,STATE
+449,FLAGS
+450,RECEIVED
+451,SENT
+452,LC-CODE
+453,LC-Code
+454,&Command Panel
+455,Load Cell Overload
+456,End of program required !
+457,&Select all
+458,Emax not given!
+459,Load
+460,Gr.
+461,Zero adjustment required !
+462,Please load scale!\n\n
+463,Name
+464,Addr.%d
+465,Emax per LC [Unit]
+466,Multiple sessions of TRADE active! Service requires one session only !
+467,Files have been initiated (Code=%d)!
+468,Error reading Histroy file!
+469,Found %d relevant files in destination  '%s' ! Overwrite all ?
+470,Error  %d checking DSD-file !
+471,Add text
+472,Pattern
+473,Multiple session of TRADE active! - No general parameters changeable - continue ?
+474,Maint.
+475,Day
+476,Month
+477,Year
+478,Type
+479,Due Message Warning
+480,Maintenance due !
+481,Code
+482,Code invalid !
+483,Error %d writing maintenace messages !
+484,Error %d reading maintenance messages !
+485,New maintenance date set !
+486,BLOCK
+487,Sealing plate
+488,Checksum Parameter:
+489,Checksum Program:
+490,Audit-Trail No:
+491,RANGE
+492,Status
+493,AD-direct
+494,Interface not existing !
+495,Nominal load or max. load not given !
+496,The given test weight is less than 2 percent of scale max - increase weight ! 
+497,Current test load not big enough - increase load !
+498,COM/IDN
+499,Wrong load cells found at the COM-port. Are the scales mixed up ? 
+500,License: %s
+501,EDIT
+502,Due Message (Block)

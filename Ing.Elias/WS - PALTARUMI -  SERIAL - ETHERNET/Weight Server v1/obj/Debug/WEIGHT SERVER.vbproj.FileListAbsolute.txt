@@ -1,0 +1,21 @@
+d:\eesquivele\Developer\WEIGHT SERVER\WS - PALTARUMI\Weight Server v1\bin\Debug\WEIGHT SERVER.exe
+d:\eesquivele\Developer\WEIGHT SERVER\WS - PALTARUMI\Weight Server v1\bin\Debug\WEIGHT SERVER.pdb
+d:\eesquivele\Developer\WEIGHT SERVER\WS - PALTARUMI\Weight Server v1\bin\Debug\WEIGHT SERVER.xml
+d:\eesquivele\Developer\WEIGHT SERVER\WS - PALTARUMI\Weight Server v1\obj\Debug\ResolveAssemblyReference.cache
+d:\eesquivele\Developer\WEIGHT SERVER\WS - PALTARUMI\Weight Server v1\obj\Debug\WEIGHTSERVER.FRMMAIN.resources
+d:\eesquivele\Developer\WEIGHT SERVER\WS - PALTARUMI\Weight Server v1\obj\Debug\WEIGHTSERVER.Resources.resources
+d:\eesquivele\Developer\WEIGHT SERVER\WS - PALTARUMI\Weight Server v1\obj\Debug\WEIGHT SERVER.vbproj.GenerateResource.Cache
+d:\eesquivele\Developer\WEIGHT SERVER\WS - PALTARUMI\Weight Server v1\obj\Debug\WEIGHT SERVER.exe
+d:\eesquivele\Developer\WEIGHT SERVER\WS - PALTARUMI\Weight Server v1\obj\Debug\WEIGHT SERVER.xml
+d:\eesquivele\Developer\WEIGHT SERVER\WS - PALTARUMI\Weight Server v1\obj\Debug\WEIGHT SERVER.pdb
+C:\Users\usuario\Escritorio\Ing.Elias\WS - PALTARUMI -  SERIAL - ETHERNET\Weight Server v1\bin\Debug\WEIGHT SERVER.exe
+C:\Users\usuario\Escritorio\Ing.Elias\WS - PALTARUMI -  SERIAL - ETHERNET\Weight Server v1\bin\Debug\WEIGHT SERVER.pdb
+C:\Users\usuario\Escritorio\Ing.Elias\WS - PALTARUMI -  SERIAL - ETHERNET\Weight Server v1\bin\Debug\WEIGHT SERVER.xml
+C:\Users\usuario\Escritorio\Ing.Elias\WS - PALTARUMI -  SERIAL - ETHERNET\Weight Server v1\obj\Debug\WEIGHT SERVER.vbproj.AssemblyReference.cache
+C:\Users\usuario\Escritorio\Ing.Elias\WS - PALTARUMI -  SERIAL - ETHERNET\Weight Server v1\obj\Debug\WEIGHTSERVER.FRMMAIN.resources
+C:\Users\usuario\Escritorio\Ing.Elias\WS - PALTARUMI -  SERIAL - ETHERNET\Weight Server v1\obj\Debug\WEIGHTSERVER.Resources.resources
+C:\Users\usuario\Escritorio\Ing.Elias\WS - PALTARUMI -  SERIAL - ETHERNET\Weight Server v1\obj\Debug\WEIGHT SERVER.vbproj.GenerateResource.cache
+C:\Users\usuario\Escritorio\Ing.Elias\WS - PALTARUMI -  SERIAL - ETHERNET\Weight Server v1\obj\Debug\WEIGHT SERVER.vbproj.CoreCompileInputs.cache
+C:\Users\usuario\Escritorio\Ing.Elias\WS - PALTARUMI -  SERIAL - ETHERNET\Weight Server v1\obj\Debug\WEIGHT SERVER.exe
+C:\Users\usuario\Escritorio\Ing.Elias\WS - PALTARUMI -  SERIAL - ETHERNET\Weight Server v1\obj\Debug\WEIGHT SERVER.xml
+C:\Users\usuario\Escritorio\Ing.Elias\WS - PALTARUMI -  SERIAL - ETHERNET\Weight Server v1\obj\Debug\WEIGHT SERVER.pdb

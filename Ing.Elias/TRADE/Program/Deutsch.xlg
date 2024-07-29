@@ -1,0 +1,502 @@
+1,Kommando bearbeitet
+2,EICHDATEI     
+3,FEHLER Eichdatei
+4,Kommando in Eichdatei eingetragen
+5,Waagenumschaltung
+6,Gewicht holen
+7,Gewicht in Ruhe holen
+8,Gewicht in Ruhe holen/speichern
+9,Null
+10,Tara
+11,Hand-Tara setzen
+12,Waage detarieren
+13,Direkt-Kommando
+14,Kommando NICHTEICHFÄHIG gedruckt!
+15,Kommando gesendet
+16,(kein)
+17,Gewicht speichern
+18,%s [Session %d]
+19,DEMO-/TEST-VERSION
+20,Lizenz: %s / %s
+21,AD-FEHLER
+22,Waage %d/%s - Range '%s'
+23,ÜBERLAST
+24,UNTERLAST
+25,<MinLast>
+26,INIT-FEHLER!
+27,CHECK-FEHLER!
+28,"NICHT GEEICHT!  "
+29,"Tarieren ...  "
+30,"Null setzen ...  "
+31,"Außerhalb Nullbereich!  "
+32,"Unzulässige Tara!  "
+33,Waage %d/%s - Port '%s'
+34,AD %d - ADR %d - ID '%s'
+35,INIT-FEHLER! Waage %d - AD %d - ADR %d - ID '%s'
+36,Waage %d - AD %d
+37,FEHLER: %s
+38,LESEFEHLER %d
+39,Unzulässige Tara!
+40,(aus)
+41,Aus
+42,Ein
+43,AD/%d
+44,(Neu)
+45,Fehler %d/%d - Port '%s'\nOut:'%s'\nIn: '%s'
+46,CRC/TCR verwalten
+47,Protokoll: '%s'  %s %s - %s (%s %s)
+48,Fehler %d bei Öffnen/Erzeugen von '%s'
+49,Abfrage Adr.%d
+50,Waage %d - AD %d - Adr. %d - '%s' - Fehler - Soll=%s / Ist=%s
+51,Waage %d - AD %d - %s
+52,Adr. %d - '%s' - Fehler - Soll=%s / Ist=%s
+53,Adr. %d - '%s' - OK! - Ist=%s (%s)
+54,Abbruch! Zu viele Fehler!
+55,Waage=%s - Port '%s' - Adr. '%d'
+56,Name=%s
+57,Anwahl=%s
+58,Seriennummer=%s
+59,Int.LDW=%d
+60,Int.LWT=%d
+61,Nicht vorhanden!
+62,ADR%d,\x22%s\x22
+63,Setze Adr.%d
+64,Fehler %d bei Einstellen der Parameter!
+65,Schnittstelle
+66,Beim Kalibrieren/Justieren gehen in jedem Fall die alten Kalibrierungsdaten verloren!\n\n
+67,Bitte Waage entleeren!\n\n
+68,Möchten Sie die Aufnehmer neu kalibrieren?\n
+69,Kalibrierung starten
+70,Nennlast nicht angegeben! Berechnung nicht möglich!
+71,Kalibrierung
+72,Kalibrierungslast kleiner 2/100 von Max. oder nicht angegeben! Lastkalibrierung nicht möglich!
+73,Waagenfehler! Möchten Sie den Vorgang abbrechen?
+74,Plausibilitätsfehler! Vermutlich wurde '%s' statt '%s' belastet!
+75,Unbelastet
+76,Belastet '%s'
+77,"  Aufnehmer %d - Wert=%d"
+78,Fehler beim Berechnen oder Eintragen der Kalibrierungswerte! Kalibrierung wiederholen!
+79,Kalibrierung beendet
+80,Kalibrierung erfolgreich!
+81,Ecken
+82,Eckenabgleich
+83,Ecke %d
+84,NAME=%s IDN=%s ADR=%d
+85,Justage beendet
+86,Nullpunktjustage erfolgreich! Fortsetzen mit Belastung?
+87,Justage (Nullpunkt) beendet
+88,Justage erfolgreich!
+89,Justage (Gewicht) beendet
+90,Justage (Berechnung) beendet
+91,Justage
+92,Spanne justieren
+93,Spanne
+94,Spanne justieren
+95,Fehler %d/%d bei Einstellung der Standardwerte!
+96,Speichern im Aufnehmer
+97,Fehler %d!
+98,Wünschen Sie eine automatische Adressvergabe?
+99,Adresseinstellung
+100,Möchten Sie die angeschlossenen Aufnehmer wie folgt einstellen:\n\n
+101,"  Seriennummer %s\t--> Adr. %d \n"
+102,\n\nKeine, falsche oder mehrfache Adressen! Adresseinstellung nicht möglich!
+103,"  Schnittstelle\t --> %s \n"
+104,"  Datenformat\t --> %s \n"
+105,"  Bus-Terminierung\t --> %s \n"
+106,Mindestens ein Seriennummern/Adresspaar konnte nicht eingestellt werden!
+107,Adresseinstellung/Übertragungsformat
+108,Alle Parameter erfolgreich eingestellt und gespeichert!
+109,Möchten Sie alle angeschlossenen Aufnehmer neu kalibrieren oder nur erneut einlesen:\n\n
+110,\nAchtung ! JA überschreibt alle Waagenjustagen! NEIN liest die  Aufnehmer lediglich neu ein!
+111,Bus-Scan
+112,Fehler beim Lesen der Parameter!
+113,Bus-Scan/Übertragungsformat
+114,Parameter gelesen und Übertragungsformat gespeichert!
+115,(Aus)
+116,(Fehler)
+117,Protokoll gestartet ...
+118,Protokoll gestoppt ...
+119,Nullpunkt Spanne justieren
+120,Nullpunkt justieren
+121,Kalk.
+122,Kalkulation/Nennlast
+123,Poll gestartet ...
+124,Poll gestoppt ...
+125,Keine Änderungserlaubnis! Zum Ausdruck der Parameter verwenden Sie bitte 'Prüfung'!
+126,Setup
+127,Waage umschalten
+128,Waage ausgeschaltet
+129,Ungültige Waage:%d
+130,Ungültige Kommando:%s
+131,PRÜFSUMMENFEHLER
+132,Gewicht übernehmen ...
+133,Sendefehler %d
+134,TIMEOUT
+135,Lesefehler %d
+136,Brutto
+137,Netto
+138,H-Tara
+139,(W-Tara)
+140,Wollen Sie das Programm wirklich beenden?
+141,Programmende
+142,Protokollierung im Hintergrund fortsetzen?
+143,Wiegeliste angehalten
+144,Info: %s
+145,-208: Keine Signatur vorhanden
+146,-209: Signatur %s/%s nicht (mehr) gültig
+147,-%d: Fehler Eichdatei: %d
+148,Falsche Größe (%d Bytes) der Eichdatei entdeckt!
+149,Öffnen der Eichdatei
+150,Lesen ...
+151,Fehler %d bei Lesen von '%s'
+152,Lesefehler
+153,%d (%d) Datensätze gelesen
+154,Keine Daten zum Löschen! (%02d/%04d)
+155,Löschen von Eichdateien
+156,Löschen aller Dateien von 01/1997 bis %02d/%04d?
+157,Datei schreiben
+158,Fehler %d bei Schreiben der Datei '%s'!
+159,Fehler beim Schreiben
+160,Datei lesen
+161,Fehler %d bei Lesen der Datei '%s'!
+162,Fehler beim Lesen
+163,Datei kopieren
+164,Fehler %d bei Kopieren der Datei '%s' nach '%s'!
+165,Fehler beim Kopieren
+166,Datei löschen
+167,Fehler %d bei Löschen der Datei '%s'!
+168,Fehler beim Löschen
+169,Waage aus
+170,Nicht geeicht!
+171,Unter MinLast
+172,FORMAT
+173,Kopie von %s
+174,Parameter - Prüfung
+175,Parameter - Service
+176,Parameter - Benutzer
+177," - EICHPFLICHTIG"
+178," - Keine Änderungserlaubnis"
+179,Folgende Einstellungen für Waage %d (%s) entsprechen nicht NTEP/OIML:\n\n
+180,\nWollen Sie die Daten trotzdem übernehmen?
+181,OIML/NTEP-Prüfung
+182,"Es wurden eichpflichtige Einträge verändert, so daß die Audit-Trail-Nummer erhöht wird und "
+183,"die Eichung erlischt! Betätigen Sie 'Nein', um die ursprünglichen Daten wiederherzustellen. "
+184,Betätigen Sie 'Ja' um die Daten zu speichern.\n\n
+185,Möchten Sie die Daten wirklich speichern?
+186,Neue Prüfsummen
+187,Daten wurden wiederhergestellt!
+188,%04x VERÄNDERT!
+189,%04x AUFNEHMER!
+190,%04x VERÄNDERT
+191,%s VERÄNDERT
+192,%04d VERÄNDERT
+193,(Neue Waage)
+194,VERÄNDERT
+195,Setup:%s %s/%s - %s (%s %s) - Session %d
+196,Parameter ausdrucken?
+197,Druck
+198,Setup: %s %s
+199,"Bei Änderungen im Bereich 'Aufnehmer' können eichpflichte Einträge verändert werden, "
+200,so daß die Audit-Trail-Nummer erhöht wird! Ein Abbruch ist dann nicht mehr möglich!
+201,Aufnehmer
+202,Es wurden Änderungen in den Aufnehmern vorgenommen oder neue hinzugefügt! Abbruch nicht mehr möglich!
+203,Wollen Sie die durchgeführten Änderungen wirklich verwerfen?
+204,Abbruch
+205,Bitte Eingabe wiederholen
+206,Benutzer-Passwort
+207,System-Passwort
+208,Protokoll ausdrucken?
+209,Protokoll: %s %s
+210,Simulation - '%s'
+211,"Benutzen Sie TRADE wie folgt: "
+212,TRADE.EXE [-u=Id] [-w=Waage]\n
+213,Mehrfachstart nur mit unterschiedlichen Id's möglich
+214,Programmstart
+215,Simulation
+216,%sWaage ausgeschaltet!
+217,%sSIMULATION-%d:%s %s
+218,Kommando Panel
+219,&Ausführen
+220,&Speichern
+221,&Kommando
+222,K&ommentar
+223,&Parameter
+224,&Drucken
+225,Speichern &und Drucken
+226,Kopfzeile
+227,&Wiegen
+228,Wiegen und Sp&eichern
+229,OK
+230," Version "
+231," Lizensiert für "
+232,AD104 - EICHPFLICHTIG
+233," Kalibrierung/Justage "
+234,&Normgew.
+235,&Gewicht
+236,E&cken
+237,Kalibrierungs-/Justage-Gewicht
+238,eAdjgewicht
+239,&Justage
+240,eCalgewicht
+241,N&ull
+242,&Kalk.
+243," Kommunikation "
+244,Ter&m.
+245,&Format
+246,&Port
+247,Baudrate/Parity
+248,caBaud
+249,Busterminierung
+250,&Scan
+251,Se&t
+252,AD-Wert
+253,Anwahl
+254,Ser.Nr.
+255,Max
+256,(Protokoll aktualisieren)
+257,Summe
+258," Protokoll "
+259,Protokollanzeige
+260,An&zeige
+261,Protokoll speichern
+262,&Datei
+263,Gewichtsermittlung
+264,P&oll
+265,Ende/Abbruch
+266,&Ende
+267,Textdateien|*.txt|Alle Dateien|*.*
+268,Tara ein
+269,&Waage
+270,Null setzen
+271,&H-Tara
+272,Anzeige einfrieren
+273,10 fach Auflösung
+274,Wiegen und eichfähig speichern
+275,Waagen-Umschaltung
+276,Kommunikation
+277,&Anzeige Eichdatei
+278,Einstellung &Drucker
+279,Programm &beenden
+280,&Optionen
+281,&Benutzer
+282,&Service
+283,&AD-Anzeige
+284,&Schriften/Farben
+285,&Gewichtsanzeige
+286,&Statuszeile
+287,&Protokoll
+288,Protokoll - &Angehalten
+289,&Eichdatei
+290,&Farbe - Anzeige
+291,&Waagenanzeige
+292,Werkzeug&leiste
+293,Si&mulation
+294,&Funktionen
+295,&Waage umschalten
+296,&Hand-Tara
+297,&Tara ein
+298,Ta&ra aus
+299,&Null setzen
+300,10 fach Auflösung
+301,Wiegen und &Speichern
+302,Ü&ber ...
+303,&Prüfung
+304,Eichdatei
+305,&Datei/Datum
+306,&Filter
+307,Kopie des Arbeitsblattes
+308,Löschen alter Eichdateien
+309,Spaltenanzahl
+310,Schließen
+311,Auswahl der Eichdatei nach Datum
+312,Filter (z.B. *123)
+313,Datei lesen/schreiben
+314,Quelle
+315,Größe/Bytes
+316,Ziel
+317,Protokoll - Angehalten
+318,Paßwort-Dialog
+319,&Paßwort eingeben:
+320,Abbrechen
+321,Parameter
+322,Übernehmen
+323,Generell
+324," Passwörter "
+325,Benutzer
+326,System
+327," Firma "
+328,KdNr.
+329,Prüfnr.
+330,Name 1
+331,Name 2
+332," Eichdatei "
+333,Verzeichnis
+334,Signatur-Codiert
+335,Speicherung/ Monate
+336," Anzeige "
+337,Protokoll- Zeilenzahl
+338,Abfrage-Freq.
+339,Timeout
+340,"Ruheeinheit"
+341,Zeichensatz
+342," Druckmodus "
+343,Unform.
+344,Passend
+345,Proport.
+346,Einzelne Waagen
+347,Name/Funktion
+348," Bezeichnung "
+349,System-Nr.
+350,Geräte-Typ
+351," Abfrage Aufnehmer "
+352," Funktionen "
+353,Tarafunktionen
+354,Nullsetzen
+355,Wiegen und Speichern
+356,Parameter/Schriften
+357,Kommando Panel
+358," Aufnehmer "
+359,Filterstufe
+360,Filter Schnell
+361,Abtastrate ICR
+362,Prüftakt
+363,Typenschild
+364," Wägebereiche "
+365,Eichwert e [Einheit]
+366,Max. [Einheit]
+367,Bereich 1
+368,Bereich 2
+369,Bereich 3
+370,Waagentyp
+371," Typenschild "
+372,Min. [Einheit]
+373,Einheit
+374,Beschriftung
+375,Zusatz
+376,Parameter/Aufnehmer
+377," Null "
+378,Zeit
+379,Nullstellen
+380,Einschalt-Null
+381,Nachführung Bereich
+382," Ruhe "
+383,Änderung
+384," Waagenanwendung "
+385,Typ
+386,Nennlast [Einheit]
+387,AD
+388," Standort "
+389,Ort
+390,g-Konstante
+391,Prüfung
+392," Parameter "
+393,Prüfzahl
+394," Veränderungen "
+395,AuditTrail-Nr.
+396," Programm "
+397,Version
+398," Bemerkungen "
+399,&Ausschneiden
+400,&Kopieren
+401,&Einfügen
+402,&Löschen
+403,&Standard
+404,Standard/All&gemein
+405,S&chablone laden
+406,Sc&hablone speichern
+407,Waage
+408,Brutto/kg
+409,Tara/kg
+410,Netto/kg
+411,Ruhe
+412,Frequenz
+413,Ziel/kg
+414,Schritt/d
+415,Aktivität
+416,Sprache
+417,Wiegeliste angehalten
+418,Wiege&liste angehalten
+419,Wiegeliste - angehalten
+420,Ereignisse
+421,&Datensicherung
+422,Daten &rückladen
+423,Datensicherung
+424,Daten rückladen
+425,Verzeichnis auswählen
+426,Quell- und Zielverzeichnis identisch!
+427,Fehler %d bei Lesen des Quellverzeichnisses
+428,Kopieren von %d Dateien von '%s' nach '%s'?
+429,Kopiervorgang fehlerhaft!
+430,Kopiervorgang erfolgreich!
+431,&Schließen
+432,TYP-FEHLER!
+433,TYP
+434,Plausibilitätsfehler! Prüfgewicht kleiner als 2/100 von Max !
+435,Poll
+436,Zuviele Lesefehler! Poll ausgeschaltet!
+437,SATZ
+438,DATUM
+439,SIGNATUR
+440,VERSION
+441,HDR
+442,KOMMENTAR
+443,TYPENSCHILD
+444,W-BRUTTO
+445,W-NETTO
+446,W-TARA
+447,W-RUHE/MODUS
+448,W-STATUS
+449,FLAGS
+450,EMPFANGEN
+451,GESENDET
+452,WZ-CODE
+453,WZ-Code
+454,&Kommando Panel
+455,Wägezellen-Überlast
+456,Beenden des Programms erforderlich!
+457,&Alles markieren
+458,Nennlast nicht angegeben!
+459,Last
+460,Br.
+461,Nullpunktabgleich erforderlich!
+462,Bitte Waage belasten!\n\n
+463,Name
+464,Adr.%d
+465,EMax WZ [Einh.]
+466,Mehrere Sessions von TRADE aktiv! Service nur bei einer aktiven Session möglich!
+467,Dateien wurden initialisiert (Code=%d)!
+468,Fehler bei Lesen der Ereignisdatei!
+469,Es sind %d betroffene Dateien im Zielverzeichnis '%s' vorhanden! Alle überschreiben?
+470,Fehler %d bei Überprüfen der Eichdatei!
+471,Zusatztext
+472,Schablone
+473,Mehrere Sessions von TRADE aktiv! - Änderungen genereller Parameter nicht möglich ! - Fortsetzen?
+474,Wartung
+475,Tag
+476,Monat
+477,Jahr
+478,Modus
+479,Meldung bei Ablauf des Datums (Wartung) 
+480,Wartungungdatum abgelaufen!
+481,Code
+482,Code ungültig!
+483,Fehler %d bei Schreiben der Wartungsdaten!
+484,Fehler %d bei Lesen der Wartungsdaten!
+485,Wartungtermin neu gesetzt !
+486,SPERRE
+487,Siegelschild
+488,Prüfzahl Parameter:
+489,Prüfzahl Programm:
+490,Audit-Trail Nr.:
+491,RANGE
+492,Status
+493,AD-Direkt
+494,Schnittstelle ist ungültig!
+495,Nennlast oder Höchstlast nicht angegeben!
+496,Das gewählte Prüfgewicht ist kleiner 2 Prozent von Max - Angabe erhöhen!
+497,Aktuelle Belastung ist nicht ausreichend - Prüfgewicht erhöhen!
+498,COM/IDN
+499,Falsche Wägezellen am COM-Port gefunden. Sind die Waagen vertauscht ?
+500,Lizenz: %s
+501,EDIT
+502,Meldung bei Ablauf des Datums (Block)

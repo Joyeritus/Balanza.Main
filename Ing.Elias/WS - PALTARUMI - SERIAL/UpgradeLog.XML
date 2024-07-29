@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="DYNASERVER">
+</Property><Property Name="Archivo de la solución" Value="T:\DIGISOL DESARROLLO\DYNASERVER\MyDocuments\VS2005\Projects\DYNASERVER\DYNASERVER.sln">
+</Property><Property Name="Archivo de opciones de usuario" Value="T:\DIGISOL DESARROLLO\DYNASERVER\MyDocuments\VS2005\Projects\DYNASERVER\DYNASERVER.suo">
+</Property><Property Name="Date" Value="martes, 12 de febrero de 2019">
+</Property><Property Name="Time" Value="18:35">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="DYNASERVER.sln" Description="La copia T:\DIGISOL DESARROLLO\DYNASERVER\MyDocuments\VS2005\Projects\DYNASERVER\Backup\DYNASERVER.sln del archivo se ha realizado correctamente">
+</Event><Event ErrorLevel="0" Project="" Source="DYNASERVER.suo" Description="La copia T:\DIGISOL DESARROLLO\DYNASERVER\MyDocuments\VS2005\Projects\DYNASERVER\Backup\DYNASERVER.suo del archivo se ha realizado correctamente">
+</Event><Event ErrorLevel="0" Project="DYNASERVER" Source="DYNASERVER\DYNASERVER.vbproj" Description="Se realizó correctamente la copia de seguridad del archivo de proyecto T:\DIGISOL DESARROLLO\DYNASERVER\MyDocuments\VS2005\Projects\DYNASERVER\Backup\DYNASERVER\DYNASERVER.vbproj">
+</Event><Event ErrorLevel="0" Project="DYNASERVER" Source="DYNASERVER\Form1.Designer.vb" Description="Se realizó correctamente la copia de seguridad del archivo T:\DIGISOL DESARROLLO\DYNASERVER\MyDocuments\VS2005\Projects\DYNASERVER\Backup\DYNASERVER\Form1.Designer.vb">
+</Event><Event ErrorLevel="0" Project="DYNASERVER" Source="DYNASERVER\Form1.vb" Description="Se realizó correctamente la copia de seguridad del archivo T:\DIGISOL DESARROLLO\DYNASERVER\MyDocuments\VS2005\Projects\DYNASERVER\Backup\DYNASERVER\Form1.vb">
+</Event><Event ErrorLevel="0" Project="DYNASERVER" Source="DYNASERVER\My Project\AssemblyInfo.vb" Description="Se realizó correctamente la copia de seguridad del archivo T:\DIGISOL DESARROLLO\DYNASERVER\MyDocuments\VS2005\Projects\DYNASERVER\Backup\DYNASERVER\My Project\AssemblyInfo.vb">
+</Event><Event ErrorLevel="0" Project="DYNASERVER" Source="DYNASERVER\My Project\Application.Designer.vb" Description="Se realizó correctamente la copia de seguridad del archivo T:\DIGISOL DESARROLLO\DYNASERVER\MyDocuments\VS2005\Projects\DYNASERVER\Backup\DYNASERVER\My Project\Application.Designer.vb">
+</Event><Event ErrorLevel="0" Project="DYNASERVER" Source="DYNASERVER\My Project\Resources.Designer.vb" Description="Se realizó correctamente la copia de seguridad del archivo T:\DIGISOL DESARROLLO\DYNASERVER\MyDocuments\VS2005\Projects\DYNASERVER\Backup\DYNASERVER\My Project\Resources.Designer.vb">
+</Event><Event ErrorLevel="0" Project="DYNASERVER" Source="DYNASERVER\My Project\Settings.Designer.vb" Description="Se realizó correctamente la copia de seguridad del archivo T:\DIGISOL DESARROLLO\DYNASERVER\MyDocuments\VS2005\Projects\DYNASERVER\Backup\DYNASERVER\My Project\Settings.Designer.vb">
+</Event><Event ErrorLevel="0" Project="DYNASERVER" Source="DYNASERVER\Server.vb" Description="Se realizó correctamente la copia de seguridad del archivo T:\DIGISOL DESARROLLO\DYNASERVER\MyDocuments\VS2005\Projects\DYNASERVER\Backup\DYNASERVER\Server.vb">
+</Event><Event ErrorLevel="0" Project="DYNASERVER" Source="DYNASERVER\SirionClient.vb" Description="Se realizó correctamente la copia de seguridad del archivo T:\DIGISOL DESARROLLO\DYNASERVER\MyDocuments\VS2005\Projects\DYNASERVER\Backup\DYNASERVER\SirionClient.vb">
+</Event><Event ErrorLevel="0" Project="DYNASERVER" Source="DYNASERVER\My Project\Application.myapp" Description="Se realizó correctamente la copia de seguridad del archivo T:\DIGISOL DESARROLLO\DYNASERVER\MyDocuments\VS2005\Projects\DYNASERVER\Backup\DYNASERVER\My Project\Application.myapp">
+</Event><Event ErrorLevel="0" Project="DYNASERVER" Source="DYNASERVER\My Project\Settings.settings" Description="Se realizó correctamente la copia de seguridad del archivo T:\DIGISOL DESARROLLO\DYNASERVER\MyDocuments\VS2005\Projects\DYNASERVER\Backup\DYNASERVER\My Project\Settings.settings">
+</Event><Event ErrorLevel="0" Project="DYNASERVER" Source="DYNASERVER\Form1.resx" Description="Se realizó correctamente la copia de seguridad del archivo T:\DIGISOL DESARROLLO\DYNASERVER\MyDocuments\VS2005\Projects\DYNASERVER\Backup\DYNASERVER\Form1.resx">
+</Event><Event ErrorLevel="0" Project="DYNASERVER" Source="DYNASERVER\My Project\Resources.resx" Description="Se realizó correctamente la copia de seguridad del archivo T:\DIGISOL DESARROLLO\DYNASERVER\MyDocuments\VS2005\Projects\DYNASERVER\Backup\DYNASERVER\My Project\Resources.resx">
+</Event><Event ErrorLevel="0" Project="DYNASERVER" Source="DYNASERVER\DYNASERVER.vbproj" Description="Proyecto convertido correctamente">
+</Event><Event ErrorLevel="3" Project="DYNASERVER" Source="DYNASERVER\DYNASERVER.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="DYNASERVER.sln" Description="La solución se convirtió correctamente">
+</Event><Event ErrorLevel="3" Project="" Source="DYNASERVER.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="DYNASERVER" Source="DYNASERVER\DYNASERVER.vbproj" Description="Examen completo: no es necesario actualizar los archivos de proyecto.">
+</Event></UpgradeLog>

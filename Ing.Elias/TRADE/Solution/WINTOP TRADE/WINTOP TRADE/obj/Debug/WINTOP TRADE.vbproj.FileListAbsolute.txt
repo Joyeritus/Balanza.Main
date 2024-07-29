@@ -1,0 +1,56 @@
+d:\eesquivele\Developer\WEIGHT SERVER\WINTOP TRADE\WINTOP TRADE - ETHERNET\bin\Debug\WINTOP TRADE.exe
+d:\eesquivele\Developer\WEIGHT SERVER\WINTOP TRADE\WINTOP TRADE - ETHERNET\bin\Debug\WINTOP TRADE.pdb
+d:\eesquivele\Developer\WEIGHT SERVER\WINTOP TRADE\WINTOP TRADE - ETHERNET\bin\Debug\WINTOP TRADE.xml
+d:\eesquivele\Developer\WEIGHT SERVER\WINTOP TRADE\WINTOP TRADE - ETHERNET\obj\Debug\ResolveAssemblyReference.cache
+d:\eesquivele\Developer\WEIGHT SERVER\WINTOP TRADE\WINTOP TRADE - ETHERNET\obj\Debug\DYNASERVER.Form1.resources
+d:\eesquivele\Developer\WEIGHT SERVER\WINTOP TRADE\WINTOP TRADE - ETHERNET\obj\Debug\DYNASERVER.Resources.resources
+d:\eesquivele\Developer\WEIGHT SERVER\WINTOP TRADE\WINTOP TRADE - ETHERNET\obj\Debug\WINTOP TRADE.vbproj.GenerateResource.Cache
+d:\eesquivele\Developer\WEIGHT SERVER\WINTOP TRADE\WINTOP TRADE - ETHERNET\obj\Debug\WINTOP TRADE.exe
+d:\eesquivele\Developer\WEIGHT SERVER\WINTOP TRADE\WINTOP TRADE - ETHERNET\obj\Debug\WINTOP TRADE.xml
+d:\eesquivele\Developer\WEIGHT SERVER\WINTOP TRADE\WINTOP TRADE - ETHERNET\obj\Debug\WINTOP TRADE.pdb
+d:\eesquivele\Developer\WEIGHT SERVER\WINTOP TRADE\WINTOP TRADE\obj\Debug\WINTOP TRADE.exe
+d:\eesquivele\Developer\WEIGHT SERVER\WINTOP TRADE\WINTOP TRADE\obj\Debug\WINTOP TRADE.xml
+d:\eesquivele\Developer\WEIGHT SERVER\WINTOP TRADE\WINTOP TRADE\obj\Debug\WINTOP TRADE.pdb
+d:\eesquivele\Developer\WEIGHT SERVER\WINTOP TRADE\WINTOP TRADE\bin\Debug\WINTOP TRADE.exe
+d:\eesquivele\Developer\WEIGHT SERVER\WINTOP TRADE\WINTOP TRADE\bin\Debug\WINTOP TRADE.pdb
+d:\eesquivele\Developer\WEIGHT SERVER\WINTOP TRADE\WINTOP TRADE\bin\Debug\WINTOP TRADE.xml
+d:\eesquivele\Developer\WEIGHT SERVER\WINTOP TRADE\WINTOP TRADE\obj\Debug\ResolveAssemblyReference.cache
+d:\eesquivele\Developer\WEIGHT SERVER\WINTOP TRADE\WINTOP TRADE\obj\Debug\DYNASERVER.Form1.resources
+d:\eesquivele\Developer\WEIGHT SERVER\WINTOP TRADE\WINTOP TRADE\obj\Debug\DYNASERVER.Resources.resources
+d:\eesquivele\Developer\WEIGHT SERVER\WINTOP TRADE\WINTOP TRADE\obj\Debug\WINTOP TRADE.vbproj.GenerateResource.Cache
+D:\TRADE\wt\WINTOP TRADE\WINTOP TRADE\bin\Debug\WINTOP TRADE.exe
+D:\TRADE\wt\WINTOP TRADE\WINTOP TRADE\bin\Debug\WINTOP TRADE.pdb
+D:\TRADE\wt\WINTOP TRADE\WINTOP TRADE\bin\Debug\WINTOP TRADE.xml
+D:\TRADE\wt\WINTOP TRADE\WINTOP TRADE\obj\Debug\WINTOP TRADE.vbproj.AssemblyReference.cache
+D:\TRADE\wt\WINTOP TRADE\WINTOP TRADE\obj\Debug\DYNASERVER.Form1.resources
+D:\TRADE\wt\WINTOP TRADE\WINTOP TRADE\obj\Debug\DYNASERVER.Resources.resources
+D:\TRADE\wt\WINTOP TRADE\WINTOP TRADE\obj\Debug\WINTOP TRADE.vbproj.GenerateResource.cache
+D:\TRADE\wt\WINTOP TRADE\WINTOP TRADE\obj\Debug\WINTOP TRADE.vbproj.CoreCompileInputs.cache
+D:\TRADE\wt\WINTOP TRADE\WINTOP TRADE\obj\Debug\WINTOP TRADE.vbproj.CopyComplete
+D:\TRADE\wt\WINTOP TRADE\WINTOP TRADE\obj\Debug\WINTOP TRADE.exe
+D:\TRADE\wt\WINTOP TRADE\WINTOP TRADE\obj\Debug\WINTOP TRADE.xml
+D:\TRADE\wt\WINTOP TRADE\WINTOP TRADE\obj\Debug\WINTOP TRADE.pdb
+D:\TRADE\Solution\WINTOP TRADE\WINTOP TRADE\bin\Debug\WINTOP TRADE.exe
+D:\TRADE\Solution\WINTOP TRADE\WINTOP TRADE\bin\Debug\WINTOP TRADE.pdb
+D:\TRADE\Solution\WINTOP TRADE\WINTOP TRADE\bin\Debug\WINTOP TRADE.xml
+D:\TRADE\Solution\WINTOP TRADE\WINTOP TRADE\obj\Debug\WINTOP TRADE.vbproj.AssemblyReference.cache
+D:\TRADE\Solution\WINTOP TRADE\WINTOP TRADE\obj\Debug\DYNASERVER.Form1.resources
+D:\TRADE\Solution\WINTOP TRADE\WINTOP TRADE\obj\Debug\DYNASERVER.Resources.resources
+D:\TRADE\Solution\WINTOP TRADE\WINTOP TRADE\obj\Debug\WINTOP TRADE.vbproj.GenerateResource.cache
+D:\TRADE\Solution\WINTOP TRADE\WINTOP TRADE\obj\Debug\WINTOP TRADE.vbproj.CoreCompileInputs.cache
+D:\TRADE\Solution\WINTOP TRADE\WINTOP TRADE\obj\Debug\WINTOP TRADE.vbproj.CopyComplete
+D:\TRADE\Solution\WINTOP TRADE\WINTOP TRADE\obj\Debug\WINTOP TRADE.exe
+D:\TRADE\Solution\WINTOP TRADE\WINTOP TRADE\obj\Debug\WINTOP TRADE.xml
+D:\TRADE\Solution\WINTOP TRADE\WINTOP TRADE\obj\Debug\WINTOP TRADE.pdb
+C:\Users\User\Desktop\Escritorio.2\Ing.Elias\TRADE\Solution\WINTOP TRADE\WINTOP TRADE\bin\Debug\WINTOP TRADE.exe
+C:\Users\User\Desktop\Escritorio.2\Ing.Elias\TRADE\Solution\WINTOP TRADE\WINTOP TRADE\bin\Debug\WINTOP TRADE.pdb
+C:\Users\User\Desktop\Escritorio.2\Ing.Elias\TRADE\Solution\WINTOP TRADE\WINTOP TRADE\bin\Debug\WINTOP TRADE.xml
+C:\Users\User\Desktop\Escritorio.2\Ing.Elias\TRADE\Solution\WINTOP TRADE\WINTOP TRADE\obj\Debug\WINTOP TRADE.vbproj.AssemblyReference.cache
+C:\Users\User\Desktop\Escritorio.2\Ing.Elias\TRADE\Solution\WINTOP TRADE\WINTOP TRADE\obj\Debug\DYNASERVER.Form1.resources
+C:\Users\User\Desktop\Escritorio.2\Ing.Elias\TRADE\Solution\WINTOP TRADE\WINTOP TRADE\obj\Debug\DYNASERVER.Resources.resources
+C:\Users\User\Desktop\Escritorio.2\Ing.Elias\TRADE\Solution\WINTOP TRADE\WINTOP TRADE\obj\Debug\WINTOP TRADE.vbproj.GenerateResource.cache
+C:\Users\User\Desktop\Escritorio.2\Ing.Elias\TRADE\Solution\WINTOP TRADE\WINTOP TRADE\obj\Debug\WINTOP TRADE.vbproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Escritorio.2\Ing.Elias\TRADE\Solution\WINTOP TRADE\WINTOP TRADE\obj\Debug\WINTOP TRADE.vbproj.CopyComplete
+C:\Users\User\Desktop\Escritorio.2\Ing.Elias\TRADE\Solution\WINTOP TRADE\WINTOP TRADE\obj\Debug\WINTOP TRADE.exe
+C:\Users\User\Desktop\Escritorio.2\Ing.Elias\TRADE\Solution\WINTOP TRADE\WINTOP TRADE\obj\Debug\WINTOP TRADE.xml
+C:\Users\User\Desktop\Escritorio.2\Ing.Elias\TRADE\Solution\WINTOP TRADE\WINTOP TRADE\obj\Debug\WINTOP TRADE.pdb

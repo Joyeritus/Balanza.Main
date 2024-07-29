@@ -1,0 +1,10 @@
+C:\MyDocuments\VS2005\Projects\DYNASERVER\DYNASERVER\bin\Release\DYNASERVER.exe
+C:\MyDocuments\VS2005\Projects\DYNASERVER\DYNASERVER\bin\Release\DYNASERVER.pdb
+C:\MyDocuments\VS2005\Projects\DYNASERVER\DYNASERVER\bin\Release\DYNASERVER.xml
+C:\MyDocuments\VS2005\Projects\DYNASERVER\DYNASERVER\obj\Release\ResolveAssemblyReference.cache
+C:\MyDocuments\VS2005\Projects\DYNASERVER\DYNASERVER\obj\Release\DYNASERVER.Form1.resources
+C:\MyDocuments\VS2005\Projects\DYNASERVER\DYNASERVER\obj\Release\DYNASERVER.Resources.resources
+C:\MyDocuments\VS2005\Projects\DYNASERVER\DYNASERVER\obj\Release\DYNASERVER.vbproj.GenerateResource.Cache
+C:\MyDocuments\VS2005\Projects\DYNASERVER\DYNASERVER\obj\Release\DYNASERVER.exe
+C:\MyDocuments\VS2005\Projects\DYNASERVER\DYNASERVER\obj\Release\DYNASERVER.xml
+C:\MyDocuments\VS2005\Projects\DYNASERVER\DYNASERVER\obj\Release\DYNASERVER.pdb

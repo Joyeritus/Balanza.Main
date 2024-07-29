@@ -1,0 +1,11 @@
+D:\eesquivele\Desarrollo\ETHERNET\Weight Server v1.0\Weight Server v1.0\obj\Release\ResolveAssemblyReference.cache
+D:\eesquivele\Desarrollo\ETHERNET\Weight Server v1.0\Weight Server v1.0\obj\Release\Weight_Server_v1._0.FrmMain.resources
+D:\eesquivele\Desarrollo\ETHERNET\Weight Server v1.0\Weight Server v1.0\obj\Release\Weight_Server_v1._0.Resources.resources
+D:\eesquivele\Desarrollo\ETHERNET\Weight Server v1.0\Weight Server v1.0\obj\Release\Weight Server v1.0.vbproj.GenerateResource.Cache
+D:\eesquivele\Desarrollo\ETHERNET\Weight Server v1.0\Weight Server v1.0\bin\Release\Weight Server v1.0.exe
+D:\eesquivele\Desarrollo\ETHERNET\Weight Server v1.0\Weight Server v1.0\bin\Release\Weight Server v1.0.pdb
+D:\eesquivele\Desarrollo\ETHERNET\Weight Server v1.0\Weight Server v1.0\bin\Release\Weight Server v1.0.xml
+D:\eesquivele\Desarrollo\ETHERNET\Weight Server v1.0\Weight Server v1.0\bin\Release\NDde.dll
+D:\eesquivele\Desarrollo\ETHERNET\Weight Server v1.0\Weight Server v1.0\obj\Release\Weight Server v1.0.exe
+D:\eesquivele\Desarrollo\ETHERNET\Weight Server v1.0\Weight Server v1.0\obj\Release\Weight Server v1.0.xml
+D:\eesquivele\Desarrollo\ETHERNET\Weight Server v1.0\Weight Server v1.0\obj\Release\Weight Server v1.0.pdb

@@ -1,0 +1,10 @@
+d:\eesquivele\Developer\WEIGHT SERVER\WS - PALTARUMI\Weight Server v1\bin\Debug\WEIGHT SERVER.exe
+d:\eesquivele\Developer\WEIGHT SERVER\WS - PALTARUMI\Weight Server v1\bin\Debug\WEIGHT SERVER.pdb
+d:\eesquivele\Developer\WEIGHT SERVER\WS - PALTARUMI\Weight Server v1\bin\Debug\WEIGHT SERVER.xml
+d:\eesquivele\Developer\WEIGHT SERVER\WS - PALTARUMI\Weight Server v1\obj\Debug\ResolveAssemblyReference.cache
+d:\eesquivele\Developer\WEIGHT SERVER\WS - PALTARUMI\Weight Server v1\obj\Debug\WEIGHTSERVER.FRMMAIN.resources
+d:\eesquivele\Developer\WEIGHT SERVER\WS - PALTARUMI\Weight Server v1\obj\Debug\WEIGHTSERVER.Resources.resources
+d:\eesquivele\Developer\WEIGHT SERVER\WS - PALTARUMI\Weight Server v1\obj\Debug\WEIGHT SERVER.vbproj.GenerateResource.Cache
+d:\eesquivele\Developer\WEIGHT SERVER\WS - PALTARUMI\Weight Server v1\obj\Debug\WEIGHT SERVER.exe
+d:\eesquivele\Developer\WEIGHT SERVER\WS - PALTARUMI\Weight Server v1\obj\Debug\WEIGHT SERVER.xml
+d:\eesquivele\Developer\WEIGHT SERVER\WS - PALTARUMI\Weight Server v1\obj\Debug\WEIGHT SERVER.pdb

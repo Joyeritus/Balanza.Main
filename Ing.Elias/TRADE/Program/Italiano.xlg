@@ -1,0 +1,502 @@
+1,Comando completato!
+2,Supporto dei Dati-Legali
+3,Errore del supporto Dati-Legali
+4,Comando trasmesso al supporto Dati-Legali (DSD)
+5,Selezione Bilancia
+6,Pesa
+7,Rileva peso stabile
+8,Rileva peso stabile e salva in DSD
+9,0 Bilancia
+10,Tara
+11,Attiva tara manuale
+12,Disattiva tara bilancia
+13,Comando diretto
+14,Stampato il comando NON OMOLOGATO
+15,Comando trasmesso
+16,(nessuno)
+17,Salva peso
+18,%s [Sessione %d]
+19,Versione DEMO
+20,Licenza: %s / %s
+21,Errore AD
+22,Bilancia %d/%s - Campo '%s'
+23,SOVRACCARICO
+24,SOTTOCARICO
+25,<PesoMin>
+26,ERRORE-INIT!
+27,ERRORE-CHECK!
+28,"NON OMOLOGATO! "
+29,"Tara in corso ... "
+30,"Azzeramento in corso ... "
+31,"Zero fuori campo! " 
+32,"Tara fuori campo! "
+33,Bilancia %d/%s - Porta '%s'
+34,AD %d - INDIR %d - ID '%s'
+35,ERRORE-INIT! Bilancia %d - AD %d - INDIR %d - ID '%s'
+36,Bilancia %d - AD %d 
+37,ERRORE: %s
+38,ERRORE DI LETTURA %d
+39,Tara fuori campo!
+40,(off)
+41,Off
+42,ON
+43,AD/%d
+44,(Nuovo)
+45,Errore %d/%d - Porta '%s'\nOut:'%s'\nIn: '%s'
+46,Operazione CRC/TCR
+47,Protocollo: '%s'  %s %s - %s (%s %s)
+48,Errore %d aprendo/crendo '%s'
+49,Chiama Indir. %d
+50,Bilancia %d - AD %d -Indir. %d- '%s' - Errore - Nominale=%s / Reale=%s
+51,Bilancia %d - AD %d- %s
+52,Indir. %d- '%s' - Errore - Nominale=%s / Reale=%s
+53,Indir. %d- '%s' - OK -  Reale=%s (%s)
+54,Programma terminato! -Troppi errori!
+55,Bilancia=%s - Porta '%s' - Indir. '%d'
+56,Nome=%s
+57,Selezione=%s
+58,Nr. Serie=%s
+59,LDW interno=%d
+60,LWT interno=%d
+61,Non esistente!
+62,ADR%d,\x22%s\x22
+63,Assegna Indir. %d
+64,Errore %d impostando i Parametri
+65,Interfaccia
+66,Sovrascrivere la vecchia calibrazione con la nuova?\n\n
+67,Prego, scaricare la bilancia!\n\n
+68,Effettuare nuova calibrazione delle celle di carico?\n
+69,Start calibrazione
+70,Valore del carico nominale non assegnato! Calcolo terminato!
+71,Calibrazione
+72,Peso di calibrazione <2/100 di Max. o sconosciuto! Calibrazione impossibile! 
+73,Errore della bilancia! Terminare il procedimento?
+74,Errore!  Angolo caricato con '%s' invece di '%s'?
+75,Non caricato
+76,Caricato '%s'
+77,Cella di carico %d - Valore=%d
+78,Errore nel calcolo della calibrazione! Ripetere la calibrazione!
+79,Calibrazione terminata
+80,Calibrazione eseguita con successo!
+81,Angoli
+82,Regolazione angoli
+83,Angolo %d
+84,NOME=%s IDN=%s ADR=%d
+85,Calibrazione terminata
+86,Calibrazione dello Zero eseguita con successo! Procedere con il caricamento?
+87,Calibrazione dello Zero terminata
+88,Calibrazione eseguita con successo
+89,Calibrazione dello Span (con pesi) terminata
+90,Calibrazione dello Span (calcolata) terminata
+91,Calibrazione
+92,Calibrazione Span
+93,Span
+94,Calibrazione Span
+95,Errore %d/%d impostando i parametri standard
+96,Salva nel trasduttore
+97,Errore %d!
+98,Assegnazione automatica degli Indirizzi ?   
+99,Assegnazione Indirizzi
+100,Configurazione del sistema come segue:\n\n
+101," Nr. Serie %s\t--> Indir. %d \n"
+102,\n\nIndirizzi errati! Impostazione non possibile!
+103," Interfaccia\t --> %s \n"
+104," Formato Dati\t --> %s \n"
+105," Terminazione Bus\t --> %s \n"
+106,È stato impossibile impostare almeno un Nr. di Serie! 
+107,Impostazione Indirizzi/Formato Dati
+108,Tutti i parametri sono stati assegnati e salvati con successo!
+109,Nuova configurazione del sistema come segue:\n\n
+110,\nAttenzione: YES sovrascrive la calibrazione bilancia; NO rilegge nuovamente le celle di carico! 
+111,Interrogazione-Bus
+112,Errore leggendo i parametri!
+113,Interrogazione-Bus/Formato Trasmissione
+114,Lettura Parametri e salvataggio Formato Trasmissione!
+115,(Off)
+116,(Errore)
+117,Protocollo lanciato
+118,Protocollo fermato
+119,Calibrazione Zero e Span
+120,Calibrazione Zero
+121,Calc.
+122,Calc. dello Span senza pesi
+123,Poll lanciato
+124,Poll fermato
+125,Negato accesso alla configurazione. Usare la funzione 'Check' !
+126,Configurazione (Setup)
+127,Seleziona bilancia
+128,Bilancia spenta (off)
+129,Bilancia non valida:%d
+130,Comando non valido: %s
+131,ERRORE FILE DATI-LEGALI (AUDIT-TRAIL)
+132,Lettura del peso....
+133,Errore di trasmissione %d
+134,TIMEOUT
+135,Errore di lettura %d
+136,Lordo
+137,Netto
+138,Tara M
+139,(Tara V)
+140,Conferma uscita dal programma TRADE
+141,Programma terminato
+142,Proseguire il Protocollo sullo sfondo?
+143,Lista Pesate
+144,Info: %s
+145,-208: Firma non disponibile
+146,-209: Firma %s/%s non (più) valida 
+147,-%d: Errore del supporto Dati-Legali: %d
+148,Dimensione errata del supporto Dati-Legali (%d byte) 
+149,Apertura del supporto Dati-Legali
+150,Lettura ..
+151,Errore %d leggendo da '%s'
+152,Errore di lettura
+153,Lette %d (%d) serie di dati
+154,Nessun dato da cancellare! (%02d/%04d)
+155,Eliminazione dei file Dati-Legali (DSD)
+156,Eliminazione di tutti i file dal 01/1997 al %02d/%04d?
+157,Scrittura file
+158,Errore %d scrivendo il file '%s'!
+159,Errore di scrittura
+160,Lettura file
+161,Errore %d leggendo il file '%s'
+162,Errore di lettura
+163,Copiatura file
+164,Errore %d copiando il file '%s' to '%s'!
+165,Errore di copiatura file
+166,Eliminazione file
+167,Errore %d eliminando il file '%s'
+168,Errore di eliminazione file
+169,Bilancia spenta (off)
+170,Non omologato!
+171,Sotto il peso Min
+172,FORMATO
+173,Copia di %s
+174,Parametri - Check
+175,Parametri - Service
+176,Parametri - Operatore
+177," -OMOLOGATO"
+178," - Service non autorizzato!"
+179,La seguente configurazione della bilancia %d(%s) non è conforme alle norme NTEP/OIML:\n\n
+180,\nProseguire tuttavia la configurazione?
+181,Test OIML/NTEP
+182,La modifica dei parametri di taratura causerà l'incremento del No. Audit-Trail
+183,Premere 'NO' per reimpostare i dati originali.
+184,Premere 'Yes' per salvare i nuovi dati.\n\n
+185,Si vogliono realmente salvare i dati?
+186,Nuovo Nr. Audit-Trail
+187,Reimpostati i dati originali!
+188,%04x CAMBIATO!
+189,%04x CELLA DI CARICO!
+190,%04x CAMBIATO!
+191,%s CAMBIATO!
+192,%04d CAMBIATO!
+193,(Nuova bilancia)
+194,CAMBIATO
+195,Configurazione:%s %s/%s - %s (%s %s) - Sessione %d
+196,Stampa dei parametri della bilancia ?
+197,Stampa
+198,Configurazione: %s %s
+199,Modifiche nell'area 'Cella di Carico' possono variare i parametri di taratura 
+200,ed incrementare il No. Audit-Trail !           Undo (annulla) non è possibile!
+201,Cella di Carico
+202,Già effettuate le modifiche nelle celle di carico. Undo (annulla) non è più possibile!
+203,Undo (annulla) le modifiche effettuate?
+204,Annulla
+205,Ripetere le assegnazioni
+206,Password Operatore
+207,Password Service
+208,Stampa del Protocollo (Storia bilancia)?
+209,Protocollo: %s %s
+210,Simulazione - '%s'
+211,"Usare il programma TRADE come segue: "
+212,TRADE.EXE [-u=ld] [w=bilancia]\n
+213,La Multi-Sessione richiede ID differenti
+214,Lancio del programma
+215,Simulazione
+216,%sBilancia disattivata (off)!
+217,%sSimulazione-%d:%s %s
+218,Modo Comandi
+219,&Esegui
+220,S&alva
+221,&Comando
+222,C&ommento
+223,&Parametri
+224,S&tampa
+225,Sa&lva e Stampa
+226,Intestazione
+227,Pe&sa
+228,Pesa e Sal&va
+229,OK
+230," Versione "
+231," Licenza per "
+232,AD104 - OMOLOGATO
+233," Calibrazione/Regolazione "
+234,Mas.Camp.
+235,Massa
+236,An&goli
+237,Massa di Calibrazione/Regolazione
+238,eMassaRegolaz.
+239,&Calibraz.
+240,eMassaCalibr.
+241,&Zero
+242,Ca&lc.
+243," Comunicazione "
+244,Ter&min.
+245,&Formato
+246,&Port.
+247,Baudrate/Parità
+248,caBaud
+249,Terminazione Bus
+250,&Scan
+251,Se&t
+252,Val.AD
+253,Selez.
+254,Nr.Ser.
+255,Max
+256,(Aggiorna Protocollo)
+257,Somma
+258," Protocollo "
+259,Visualizza Protocollo
+260,&Visualizza
+261,Salva Protocollo
+262,&File
+263,Trasmetti peso On/Off
+264,&Poll
+265,Fine/Annulla
+266,Fin&e
+267,File di testo|*.txt|Tutti i file|*.*
+268,Tara On
+269,&Bilancia
+270,Imposta lo Zero
+271,Tara- &Man.
+272,Congela Indicazione
+273,Risoluzione x10
+274,Pesa e Salva (omologato) 
+275,Seleziona Bilancia
+276,Comunicazione
+277,Visualizza &File Dati-Legali (DSD)
+278,Imposta &Stampante
+279,&Termina Programma
+280,&Opzioni
+281,&Operatore
+282,&Service
+283,Indicazione &AD
+284,&Font/Colori
+285,Indicazione &Peso
+286,&Riga di Stato
+287,Pro&tocollo
+288,Con&gela Protocollo
+289, &Supporto Dati-Legali
+290,Colore &Sfondo
+291,Visualizza &Bilancia
+292,Barra &Utensili
+293,&Simulazione
+294,F&unzioni
+295,Seleziona &Bilancia
+296,Tara &M
+297,Tara O&n
+298,Tara O&ff
+299,&Zero
+300,&Risoluzione x10
+301,&Pesa e Salva
+302,&Informazioni su TRADE
+303,&Check
+304,Supporto Dati-Legali
+305,File/Data
+306,Filtro
+307,Stampa dei file Dati-Legali (DSD)
+308,Elimina i vecchi file Dati-Legali (DSD)
+309,Numero di colonne
+310,Chiudi
+311,Ricerca data del file Dati-Legali (DSD)
+312,Filtro (p.e. *123)
+313,Lettura/Scrittura file
+314,Sorgente
+315,Dimensione (Byte)
+316,Destinazione
+317,Congela Protocollo
+318,Dialogo-Password
+319,Assegna Password: 
+320,Annulla
+321,Parametri
+322,Trasferisci
+323,Generale
+324," Parole d'ordine "
+325,Operatore
+326,Service
+327,"Azienda "
+328,Nr.Cliente
+329,Codice
+330,Nome 1
+331,Nome 2
+332," Supporto Dati-Legali "
+333,Percorso
+334,Codifica Firma
+335,Salva/ Mesi 
+336," Indicazione "
+337,Righe del protocollo
+338,Frequenza Interrogazione
+339,Timeout
+340,Stabile/Unità
+341,Font
+342,"Modo Stampa"
+343,Non form.
+344,Adatt.
+345,Proporz.
+346,Bilancia singola
+347,Nome/Funzioni
+348," Informazioni sulla bilancia "
+349,Nr. Sistema
+350,Tipo Strumento
+351," Interrogazione Cella di Carico "
+352," Funzioni "
+353,Funzioni di Tara
+354,Azzeramento
+355,Pesa e Salva
+356,Font/Colori
+357,Modo Comandi
+358," Cella di Carico "
+359,Valore Filtro
+360,Filtro rapido
+361,Cadenza Inter.
+362,Cadenza Check
+363,Targa
+364," Campo di Pesatura "
+365,Divisione e [Unità]
+366,Peso Max. [Unità]
+367,Campo 1
+368,Campo 2
+369,Campo 3
+370,Tipo Bilancia
+371," Targa "
+372,Peso Min. [Unità]
+373,Unità
+374,Iscrizione
+375,Addiz.
+376,Parametri/Cella di Carico
+377," Azzeramento"
+378,Tempo
+379,Azzeramento
+380,Zero alla accensione
+381,Inseg.di Zero (Zero Tracking)
+382," Stabilità "
+383,Variazione
+384,Tipo di Bilancia
+385,Tipo
+386,Emax LC [Unità]
+387,AD
+388," Località Installazione "
+389,Località
+390,Valore g
+391,Verifica
+392," Parametri "
+393,Check-Sum
+394," Modifiche "
+395,Nr. Audit-Trail
+396," Software "
+397,Versione
+398," Commento "
+399,&Taglia
+400,&Copia
+401,&Incolla
+402,C&ancella
+403,&Presunto
+404,Presunto/&Generale
+405,Carica M&odello
+406,Salva Mo&dello
+407,Bilancia
+408,Lordo
+409,Tara
+410,Netto
+411,Stabile
+412,Frequen.
+413,Destino
+414,Passo/d
+415,Attività
+416,Lingua
+417,Ferma Lista Pesate
+418,Ferma &Lista Pesate
+419,Lista Pesate - fermata
+420,Storia Bilan.
+421,&Backup
+422,&Restore
+423,Backup
+424,Restore
+425,Seleziona il percorso (directory)
+426,Percorso di destinazione eguale a quella sorgente!
+427,Errore %d leggendo il percorso sorgente
+428,Copiatura di %d file da '%s' a '%s'?
+429,Copia fallita!
+430,Copia effettuata con successo!
+431,&Chiudi
+432,ERRORE DI TIPO!
+433,TIPO
+434,Errore di plausibilità! Peso inferiore a 2/100 di Max. !
+435,Poll
+436,Troppi errori di lettura! Poll terminato!
+437,SERIE
+438,DATA
+439,FIRMA
+440,VERSIONE
+441,HDR
+442,COMMENTO
+443,TARGA
+444,LORDO
+445,NETTO
+446,TARA
+447,STABILE/MODO
+448,STATO
+449,FLAGS
+450,RICEVUTO
+451,TRASMESSO
+452,CODICE-LC
+453,Codice-LC
+454,&Modo Comandi
+455,Sovraccarico LC
+456,Richiesta la fine del programma !
+457,&Seleziona tutto
+458,Emax non esiste!
+459,Peso
+460,Lordo
+461,Richiesta la regolazione dello zero !
+462,Prego, caricare la bilancia !\n\n
+463,Nome
+464,Indir.%d
+465,Emax per LC [Unità]
+466,Attiva la sessione multipla di TRADE!  Il Service richiede una sola sessione  !
+467,I file sono stati inizializzati (Codice=%d)!
+468,Errore di lettura del file Storia bilancia!
+469,Trovati %d file rilevanti nella destinazione '%s' ! Li sovrascrivo tutti ?
+470,Errore %d verificando il file-DSD !
+471,Testo aggiuntivo
+472,Modello
+473,Attiva la sessione multipla di TRADE! Nessun parametro di sistema modificabile - continuo ?
+474,Manut.
+475,Giorno
+476,Mese
+477,Anno
+478,Modo
+479,Messaggio dovuto
+480,Manutenzione dovuta !
+481,Codice
+482,Codice non valido !
+483,Errore %d scrivendo i messaggi di manutenzione !
+484,Errore %d leggendo i messaggi di manutenzione !
+485,Assegnata nuova data di manutenzione !
+486,BLOCK
+487,Piastra di sigillo
+488,Checksum  Parametri:
+489,Checksum Programma:
+490,Nr. Audit-Trail:
+491,CAMPO
+492,Status
+493,AD diretto
+494,Interfaccia non esistente !
+495,Non assegnato il carico nominale od il carico max !
+496,Peso campione dato inferiore al 2 percento del max. bilancia - incrementare il peso !  
+497,Peso campione corrente troppo basso - incrementare il peso !
+498,COM/IDN
+499,Wrong load cells found at the COM-port. Are the scales mixed up ? 
+500,Licenza: %s
+501,EDIT
+502,Messaggio dovuto (BLOCK)

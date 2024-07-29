@@ -1,0 +1,23 @@
+T:\DIGISOL DESARROLLO\DYNASERVER\MyDocuments\VS2005\Projects\DYNASERVER\DYNASERVER\bin\Debug\DYNASERVER.exe
+T:\DIGISOL DESARROLLO\DYNASERVER\MyDocuments\VS2005\Projects\DYNASERVER\DYNASERVER\bin\Debug\DYNASERVER.pdb
+T:\DIGISOL DESARROLLO\DYNASERVER\MyDocuments\VS2005\Projects\DYNASERVER\DYNASERVER\bin\Debug\DYNASERVER.xml
+T:\DIGISOL DESARROLLO\DYNASERVER\MyDocuments\VS2005\Projects\DYNASERVER\DYNASERVER\obj\Debug\ResolveAssemblyReference.cache
+T:\DIGISOL DESARROLLO\DYNASERVER\MyDocuments\VS2005\Projects\DYNASERVER\DYNASERVER\obj\Debug\DYNASERVER.Form1.resources
+T:\DIGISOL DESARROLLO\DYNASERVER\MyDocuments\VS2005\Projects\DYNASERVER\DYNASERVER\obj\Debug\DYNASERVER.Resources.resources
+T:\DIGISOL DESARROLLO\DYNASERVER\MyDocuments\VS2005\Projects\DYNASERVER\DYNASERVER\obj\Debug\DYNASERVER.vbproj.GenerateResource.Cache
+T:\DIGISOL DESARROLLO\DYNASERVER\MyDocuments\VS2005\Projects\DYNASERVER\DYNASERVER\obj\Debug\DYNASERVER.exe
+T:\DIGISOL DESARROLLO\DYNASERVER\MyDocuments\VS2005\Projects\DYNASERVER\DYNASERVER\obj\Debug\DYNASERVER.xml
+T:\DIGISOL DESARROLLO\DYNASERVER\MyDocuments\VS2005\Projects\DYNASERVER\DYNASERVER\obj\Debug\DYNASERVER.pdb
+d:\eesquivele\Desarrollo\DYNASERVER\MyDocuments\VS2005\Projects\DYNASERVER\DYNASERVER\obj\Debug\DYNASERVER.exe
+d:\eesquivele\Desarrollo\DYNASERVER\MyDocuments\VS2005\Projects\DYNASERVER\DYNASERVER\obj\Debug\DYNASERVER.xml
+d:\eesquivele\Desarrollo\DYNASERVER\MyDocuments\VS2005\Projects\DYNASERVER\DYNASERVER\obj\Debug\DYNASERVER.pdb
+d:\eesquivele\Desarrollo\DINA TRADE\DYNASERVER\obj\Debug\DYNASERVER.exe
+d:\eesquivele\Desarrollo\DINA TRADE\DYNASERVER\obj\Debug\DYNASERVER.xml
+d:\eesquivele\Desarrollo\DINA TRADE\DYNASERVER\obj\Debug\DYNASERVER.pdb
+d:\eesquivele\Desarrollo\DINA TRADE\DYNASERVER\obj\Debug\ResolveAssemblyReference.cache
+d:\eesquivele\Desarrollo\DINA TRADE\DYNASERVER\obj\Debug\DYNASERVER.Form1.resources
+d:\eesquivele\Desarrollo\DINA TRADE\DYNASERVER\obj\Debug\DYNASERVER.Resources.resources
+d:\eesquivele\Desarrollo\DINA TRADE\DYNASERVER\obj\Debug\DYNASERVER.vbproj.GenerateResource.Cache
+d:\eesquivele\Desarrollo\DINA TRADE\DYNASERVER\bin\Debug\DYNASERVER.exe
+d:\eesquivele\Desarrollo\DINA TRADE\DYNASERVER\bin\Debug\DYNASERVER.pdb
+d:\eesquivele\Desarrollo\DINA TRADE\DYNASERVER\bin\Debug\DYNASERVER.xml
